@@ -31,16 +31,6 @@
   },
   {
     "from_attribute": "isReferencing",
-    "from_uuid": "30db682cad654ecd9dd3f48193dfb2e7",
-    "to_uuid": "996e8091399242bbb5e44bb199b99d5f"
-  },
-  {
-    "from_attribute": "isReferencing",
-    "from_uuid": "30db682cad654ecd9dd3f48193dfb2e7",
-    "to_uuid": "dfbc90c036ae46eda9aaa3ddcf99fb16"
-  },
-  {
-    "from_attribute": "isReferencing",
     "from_uuid": "572ffe5089564842bbd7282bd72f2150",
     "to_uuid": "839bee2042ce47f3aa52d437aa561d10"
   },

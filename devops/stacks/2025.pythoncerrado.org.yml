@@ -8,8 +8,8 @@ services:
     environment:
       RAZZLE_INTERNAL_API_PATH: http://${STACK_NAME-2025-pythoncerrado-org}_backend:8080/Plone
       RAZZLE_API_PATH: https://${STACK_HOSTNAME-2025.pythoncerrado.org}
-      RAZZLE_MATOMO_SITE_ID: 5
-      RAZZLE_MATOMO_URL: https://stats.pythoncerrado.org.br/
+      RAZZLE_MATOMO_SITE_ID: 6
+      RAZZLE_MATOMO_URL: https://stats.pythoncerrado.org/
     networks:
       - public
     deploy:
