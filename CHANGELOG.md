@@ -7,3 +7,29 @@
 -->
 
 <!-- towncrier release notes start -->
+## 20250525.1 (2025-05-25)
+
+### Backend
+
+
+#### New features:
+
+- Initial implementation. @ericof 
+
+
+
+### Frontend
+
+#### Feature
+
+- Initial implementation. @ericof 
+
+
+
+### Project
+
+No significant changes.
+
+
+
+
