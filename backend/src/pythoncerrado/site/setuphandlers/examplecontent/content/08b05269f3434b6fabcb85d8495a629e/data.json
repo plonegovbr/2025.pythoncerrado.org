@@ -1,0 +1,74 @@
+{
+  "@id": "/grade",
+  "@type": "Schedule",
+  "UID": "08b05269f3434b6fabcb85d8495a629e",
+  "allow_discussion": null,
+  "blocks": {
+    "027bf41d-9af3-40de-8da3-815442c8bfdb": {
+      "@type": "slate",
+      "plaintext": "",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "dfa1824c-1223-427d-bc20-6f600255f83d": {
+      "@type": "description"
+    },
+    "e5d42973-1fce-41a8-89cb-5f456a4f6ca2": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "e5d42973-1fce-41a8-89cb-5f456a4f6ca2",
+      "dfa1824c-1223-427d-bc20-6f600255f83d",
+      "027bf41d-9af3-40de-8da3-815442c8bfdb"
+    ]
+  },
+  "created": "2025-05-24T19:17:20+00:00",
+  "description": "Teremos um dia de tutorial e dois dias de apresenta\u00e7\u00f5es",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "grade",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-05-24T19:21:17+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "published",
+  "title": "Grade",
+  "type_title": "Schedule",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-05-24T19:17:20+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-05-24T19:17:29+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,282 @@
+{
+  "@id": "/sobre/local",
+  "@type": "Venue",
+  "UID": "77a07ae3c36540609adee86401f03403",
+  "allow_discussion": null,
+  "blocks": {
+    "0a16f218-2063-4f17-aecf-369ba9657040": {
+      "@type": "slate",
+      "plaintext": " Setor Hoteleiro Sul: 20 minutos -- \u00d4nibus 102.1, 0.151, 136.6, 162.2, 932.2  Setor Hoteleiro Norte : 25 minutos -- \u00d4nibus 396.2, 0.032, 0.813, 512.1, 640.2",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Setor Hoteleiro Sul:"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": " 20 minutos -- \u00d4nibus 102.1, 0.151, 136.6, 162.2, 932.2 "
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Setor Hoteleiro Norte"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": ": 25 minutos -- \u00d4nibus 396.2, 0.032, 0.813, 512.1, 640.2"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "0a7b212f-280b-4109-8581-d855ae02f9f1": {
+      "@type": "image",
+      "align": "right",
+      "credit": {},
+      "image_field": "image",
+      "size": "s",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        },
+        "size:noprefix": "small"
+      },
+      "theme": "default",
+      "url": "../../resolveuid/0e244eb2011946d9a27baeb66f9b995a"
+    },
+    "2c51c264-146e-4f68-a2f7-b764ddc76ea8": {
+      "@type": "description"
+    },
+    "389dea27-fc9c-47ae-aefd-5ab7bc4229ac": {
+      "@type": "slate",
+      "plaintext": "Localiza\u00e7\u00e3o",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Localiza\u00e7\u00e3o"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "4457a432-05d7-439b-a7f6-3bbf2381a7e6": {
+      "@type": "slate",
+      "plaintext": "Como chegar",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Como chegar"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "815e0af1-6590-4110-9b37-676a8b6d5c01": {
+      "@type": "gridBlock",
+      "blocks": {
+        "3616c28f-c20d-44f4-a757-1beccf78bbe6": {
+          "@type": "teaser",
+          "description": "Audit\u00f3rio da Python Cerrado 2025",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../../resolveuid/715b72e954854642bae5ef46b15271cf",
+              "@type": "Room",
+              "Description": "Audit\u00f3rio da Python Cerrado 2025",
+              "Subject": [],
+              "Title": "Audit\u00f3rio Dorneles Trem\u00e9a",
+              "description": "Audit\u00f3rio da Python Cerrado 2025",
+              "effective": "1969-12-31T03:00:00+00:00",
+              "end": null,
+              "getObjSize": "0 KB",
+              "getRemoteUrl": null,
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "",
+              "mime_type": "text/plain",
+              "nav_title": null,
+              "review_state": "published",
+              "start": null,
+              "title": "Audit\u00f3rio Dorneles Trem\u00e9a",
+              "type_title": "Room"
+            }
+          ],
+          "overwrite": true,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Audit\u00f3rio Dorneles Trem\u00e9a"
+        },
+        "42143d4f-e110-4d8b-b8e2-1deee930550c": {
+          "@type": "teaser",
+          "description": "Audit\u00f3rio principal da Python Cerrado 2025",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../../resolveuid/29b3c9409457410d9d3f38550df38a78",
+              "@type": "Room",
+              "Description": "Audit\u00f3rio principal da Python Cerrado 2025",
+              "Subject": [],
+              "Title": "Audit\u00f3rio Jean Ferri",
+              "description": "Audit\u00f3rio principal da Python Cerrado 2025",
+              "effective": "1969-12-31T03:00:00+00:00",
+              "end": null,
+              "getObjSize": "0 KB",
+              "getRemoteUrl": null,
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "",
+              "mime_type": "text/plain",
+              "nav_title": null,
+              "review_state": "published",
+              "start": null,
+              "title": "Audit\u00f3rio Jean Ferri",
+              "type_title": "Room"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "theme": "default",
+          "title": "Audit\u00f3rio Jean Ferri"
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "42143d4f-e110-4d8b-b8e2-1deee930550c",
+          "3616c28f-c20d-44f4-a757-1beccf78bbe6"
+        ]
+      },
+      "styles": {},
+      "theme": "default"
+    },
+    "96fa4ca6-8ef3-48e3-b06e-dc13e90d1ef5": {
+      "@type": "title"
+    },
+    "a4265138-4a7e-4d71-bfea-236859e8eda5": {
+      "@type": "slate",
+      "plaintext": "SEPS 708/907 \u2013 M\u00f3dulo D Asa Sul - 70390-079\nBras\u00edlia - DF",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "SEPS 708/907 \u2013 M\u00f3dulo D Asa Sul - 70390-079\nBras\u00edlia - DF"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "d1cd5d6b-a6e7-486b-991e-dd0cc49c1268": {
+      "@type": "slate",
+      "plaintext": "Audit\u00f3rios",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Audit\u00f3rios"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "db63c571-8a42-4699-89f6-fc9a08847384": {
+      "@type": "maps",
+      "align": "wide",
+      "styles": {},
+      "theme": "default",
+      "url": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1227.1451777033244!2d-47.909405487104!3d-15.809752826337288!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sbr!4v1748124028379!5m2!1sen!2sbr"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "96fa4ca6-8ef3-48e3-b06e-dc13e90d1ef5",
+      "2c51c264-146e-4f68-a2f7-b764ddc76ea8",
+      "0a7b212f-280b-4109-8581-d855ae02f9f1",
+      "389dea27-fc9c-47ae-aefd-5ab7bc4229ac",
+      "a4265138-4a7e-4d71-bfea-236859e8eda5",
+      "db63c571-8a42-4699-89f6-fc9a08847384",
+      "4457a432-05d7-439b-a7f6-3bbf2381a7e6",
+      "0a16f218-2063-4f17-aecf-369ba9657040",
+      "d1cd5d6b-a6e7-486b-991e-dd0cc49c1268",
+      "815e0af1-6590-4110-9b37-676a8b6d5c01"
+    ]
+  },
+  "created": "2025-05-24T18:16:29+00:00",
+  "description": "A Python Cerrado 2025 ocorre nas depend\u00eancias da UniProcessus",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "local",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-05-24T22:05:03+00:00",
+  "nav_title": "Local",
+  "preview_caption_link": null,
+  "review_state": "published",
+  "title": "UniProcessus",
+  "type_title": "Venue",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-05-24T18:16:29+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-05-24T19:03:44+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

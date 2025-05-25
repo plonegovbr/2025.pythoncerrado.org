@@ -1,0 +1,5 @@
+.block.sponsorLevelBlock .sponsorCTA .cta {
+  @include cta-animation();
+  @include cta-button();
+  @include cta-color-gradient();
+}

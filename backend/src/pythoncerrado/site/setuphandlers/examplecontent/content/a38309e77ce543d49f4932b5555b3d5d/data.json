@@ -1,0 +1,79 @@
+{
+  "@id": "/patrocine/organizacao/grupy-df",
+  "@type": "Sponsor",
+  "UID": "a38309e77ce543d49f4932b5555b3d5d",
+  "allow_discussion": null,
+  "created": "2025-05-24T19:03:15+00:00",
+  "description": "",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "grupy-df",
+  "image": {
+    "blob_path": "a38309e77ce543d49f4932b5555b3d5d/image/GrupyDF.png",
+    "content-type": "image/png",
+    "filename": "GrupyDF.png",
+    "height": 768,
+    "size": 31728,
+    "width": 1024
+  },
+  "image_caption": null,
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-05-24T19:03:45+00:00",
+  "review_state": "published",
+  "social_links": [
+    {
+      "@id": "4fea7736-9b3d-4fa1-9cb2-2a96e083ef4c",
+      "href": [
+        {
+          "@id": "https://github.com/grupydf",
+          "title": "github.com/grupydf"
+        }
+      ],
+      "id": "github",
+      "title": "GitHub"
+    },
+    {
+      "@id": "afb263d2-aff1-4ffb-945b-c48cb1427f4a",
+      "href": [
+        {
+          "@id": "https://grupydf.github.io/",
+          "title": "grupydf.github.io/"
+        }
+      ],
+      "id": "website",
+      "title": "Site"
+    }
+  ],
+  "text": {
+    "content-type": "text/html",
+    "data": "<p>O Grupy-DF \u00e9 uma comunidade vibrante de entusiastas da linguagem Python, formada em 2015, incluindo profissionais e amadores, com sede em Bras\u00edlia. Priorizamos a troca de conhecimento, o respeito m\u00fatuo e a diversidade como nossos valores fundamentais.</p>",
+    "encoding": "utf8"
+  },
+  "title": "Grupy-DF",
+  "type_title": "Sponsor",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-05-24T19:03:15+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-05-24T19:03:45+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

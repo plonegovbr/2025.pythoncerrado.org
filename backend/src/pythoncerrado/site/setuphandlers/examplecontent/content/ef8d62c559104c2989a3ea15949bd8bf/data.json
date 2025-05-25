@@ -1,0 +1,40 @@
+{
+  "@id": "/imagens/pycerrado-2024-01.jpg",
+  "@type": "Image",
+  "UID": "ef8d62c559104c2989a3ea15949bd8bf",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-05-24T18:14:22+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "pycerrado-2024-01.jpg",
+  "image": {
+    "blob_path": "ef8d62c559104c2989a3ea15949bd8bf/image/pycerrado-2024-01.JPG",
+    "content-type": "image/jpeg",
+    "filename": "pycerrado-2024-01.JPG",
+    "height": 575,
+    "size": 119094,
+    "width": 1024
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-05-24T18:14:22+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "pycerrado-2024-01.JPG",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

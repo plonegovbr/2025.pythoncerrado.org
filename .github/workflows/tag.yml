@@ -1,0 +1,83 @@
+name: Deploy site
+
+on:
+  push:
+    tags:
+      - '20*'
+
+jobs:
+
+  config:
+    uses: ./.github/workflows/config.yml
+
+  backend-release:
+    name: "Backend: Build and publish Container Image"
+    uses: plone/meta/.github/workflows/container-image-build-push.yml@2.x
+    needs:
+      - config
+    permissions:
+      contents: read
+      packages: write
+    with:
+      base-tag: ${{ github.ref_name }}
+      image-name-prefix: ${{ needs.config.outputs.image-name-prefix }}
+      image-name-suffix: 'backend'
+      working-directory: 'backend'
+      build-args: |
+        PLONE_VERSION=${{ needs.config.outputs.plone-version }}
+      push: ${{ github.event_name != 'pull_request' }}
+    secrets:
+      username: ${{ github.actor }}
+      password: ${{ secrets.GITHUB_TOKEN }}
+
+  frontend-release:
+    name: "Frontend: Build and publish Container Image"
+    uses: plone/meta/.github/workflows/container-image-build-push.yml@2.x
+    needs:
+      - config
+    permissions:
+      contents: read
+      packages: write
+    with:
+      base-tag: ${{ github.ref_name }}
+      image-name-prefix: ${{ needs.config.outputs.image-name-prefix }}
+      image-name-suffix: 'frontend'
+      working-directory: 'frontend'
+      build-args: |
+        VOLTO_VERSION=${{ needs.config.outputs.volto-version }}
+      push: ${{ github.event_name != 'pull_request' }}
+    secrets:
+      username: ${{ github.actor }}
+      password: ${{ secrets.GITHUB_TOKEN }}
+
+  deploy:
+    needs:
+      - config
+      - backend-release
+      - frontend-release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Deploy to cluster
+        uses: kitconcept/docker-stack-deploy@v1.2.0
+        with:
+          registry: "ghcr.io"
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+          remote_host: ${{ secrets.DEPLOY_HOST }}
+          remote_port: ${{ secrets.DEPLOY_PORT }}
+          remote_user: ${{ secrets.DEPLOY_USER }}
+          remote_private_key: ${{ secrets.DEPLOY_SSH }}
+          stack_file: devops/stacks/${{ needs.config.outputs.environment }}.yml
+          stack_name: ${{ needs.config.outputs.stack-name }}
+          stack_param: ${{ github.ref_name }}
+          env_file: |
+            IMAGE_NAME_PREFIX=${{ needs.config.outputs.image-name-prefix }}
+            IMAGE_TAG=${{ github.ref_name }}
+            STACK_NAME=${{ needs.config.outputs.stack-name }}
+            STACK_PREFIX=${{ needs.config.outputs.stack-prefix }}
+            STACK_HOSTNAME=${{ needs.config.outputs.hostname }}
+            CERTRESOLVER=${{ needs.config.outputs.certresolver }}
+          deploy_timeout: 480

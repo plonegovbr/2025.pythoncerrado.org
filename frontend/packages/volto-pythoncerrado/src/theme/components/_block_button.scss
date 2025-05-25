@@ -1,0 +1,7 @@
+.block.__button {
+  .ui.button {
+    @include cta-animation();
+    @include cta-button();
+    @include cta-color-gradient();
+  }
+}

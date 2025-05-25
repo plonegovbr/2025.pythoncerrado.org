@@ -1,0 +1,246 @@
+{
+  "@id": "/sobre/codigo-de-conduta",
+  "@type": "Document",
+  "UID": "efebd63925ef4a0eb6e119ad6b0a781a",
+  "allow_discussion": null,
+  "blocks": {
+    "19fc5acc-d70c-4ada-b987-7ca0b36f1cbc": {
+      "@type": "slate",
+      "plaintext": "Havendo um relato de viola\u00e7\u00e3o destes princ\u00edpios, a Equipe de Resposta realizar\u00e1 a devida an\u00e1lise e, quando necess\u00e1rio, tomar\u00e1 as a\u00e7\u00f5es para impedir a reincid\u00eancia. Estas a\u00e7\u00f5es podem, mas n\u00e3o se restringem nem implicam em ir desde uma conversa em busca da retrata\u00e7\u00e3o at\u00e9 um convite para se retirar do evento por tempo indeterminado.",
+      "styles": {},
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Havendo um relato de viola\u00e7\u00e3o destes princ\u00edpios, a Equipe de Resposta realizar\u00e1 a devida an\u00e1lise e, quando necess\u00e1rio, tomar\u00e1 as a\u00e7\u00f5es para impedir a reincid\u00eancia. Estas a\u00e7\u00f5es podem, mas n\u00e3o se restringem nem implicam em ir desde uma conversa em busca da retrata\u00e7\u00e3o at\u00e9 um convite para se retirar do evento por tempo indeterminado."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "1a663f45-f510-490e-ac03-8d52469a4eb4": {
+      "@type": "slate",
+      "plaintext": "Desta forma, entendemos que:Seja gentil com as outras pessoas. N\u00e3o insulte ou desestimule outras pessoas. N\u00e3o publique fotos de outras pessoas sem o consentimento delas. Lembre-se que piadas de ass\u00e9dio, identidade de g\u00eanero, sexismo, racismo e exclus\u00e3o s\u00e3o proibidas no evento.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Desta forma, entendemos que:Seja gentil com as outras pessoas. N\u00e3o insulte ou desestimule outras pessoas. N\u00e3o publique fotos de outras pessoas sem o consentimento delas. Lembre-se que piadas de ass\u00e9dio, identidade de g\u00eanero, sexismo, racismo e exclus\u00e3o s\u00e3o proibidas no evento."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "1fbd4ffc-42da-4fd4-a716-488e1a9603f8": {
+      "@type": "slate",
+      "plaintext": "Portanto:",
+      "styles": {},
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Portanto:"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "3477db4c-c7fb-4547-8fc9-f0f8ecf5b0bc": {
+      "@type": "description"
+    },
+    "5a55a862-b745-4c4a-953d-f555e7ec4128": {
+      "@type": "slate",
+      "plaintext": "A equipe de resposta est\u00e1 bem informada em como lidar com incidentes e em como agir com as situa\u00e7\u00f5es. As pessoas organizadoras da confer\u00eancia ter\u00e3o o prazer de ajudar a entrar em contato com a seguran\u00e7a local ou ajudar a garantir o cumprimento da lei local, ou ajudar aquelas pessoas que vivenciaram o ass\u00e9dio a se sentirem seguras durante todo o evento. A gente se importa com voc\u00ea e n\u00e3o queremos que nada estrague a sua experi\u00eancia no evento.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "A equipe de resposta est\u00e1 bem informada em como lidar com incidentes e em como agir com as situa\u00e7\u00f5es. As pessoas organizadoras da confer\u00eancia ter\u00e3o o prazer de ajudar a entrar em contato com a seguran\u00e7a local ou ajudar a garantir o cumprimento da lei local, ou ajudar aquelas pessoas que vivenciaram o ass\u00e9dio a se sentirem seguras durante todo o evento. A gente se importa com voc\u00ea e n\u00e3o queremos que nada estrague a sua experi\u00eancia no evento."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "aaedb772-1828-4075-abab-1f31c2480d26": {
+      "@type": "title"
+    },
+    "c7b03834-f346-4d18-a144-d30f0c7c9f90": {
+      "@type": "slate",
+      "plaintext": "A Python Cerrado \u00e9 um evento que tem o prop\u00f3sito de oferecer uma viv\u00eancia livre de ass\u00e9dio para todas as pessoas envolvidas, independente de identidade de g\u00eanero, sexo, orienta\u00e7\u00e3o sexual, defici\u00eancia, apar\u00eancia f\u00edsica, composi\u00e7\u00e3o corporal, ra\u00e7a, classe social, religi\u00e3o e qualquer representa\u00e7\u00e3o de diversidade.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "A Python Cerrado \u00e9 um evento que tem o prop\u00f3sito de oferecer uma viv\u00eancia livre de ass\u00e9dio para todas as pessoas envolvidas, independente de identidade de g\u00eanero, sexo, orienta\u00e7\u00e3o sexual, defici\u00eancia, apar\u00eancia f\u00edsica, composi\u00e7\u00e3o corporal, ra\u00e7a, classe social, religi\u00e3o e qualquer representa\u00e7\u00e3o de diversidade."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "e15c567d-5449-4415-bcb6-ed6087aa4cc2": {
+      "@type": "slate",
+      "plaintext": "N\u00e3o \u00e9 tolerado nenhum tipo de ass\u00e9dio, discrimina\u00e7\u00e3o inapropriada ou humilha\u00e7\u00e3o p\u00fablica; N\u00e3o \u00e9 tolerado o descumprimento das leis brasileiras; Toda pessoa presente no evento, independentemente do seu papel, est\u00e1 sujeita a estas regras. Ass\u00e9dio \u00e9 a a\u00e7\u00e3o de insistir, perseguir ou coagir outra pessoa a um comportamento involunt\u00e1rio. Discrimina\u00e7\u00e3o inapropriada \u00e9 o ato de separar, injuriar ou humilhar algu\u00e9m, promovendo sua exclus\u00e3o por um atributo particular. Humilha\u00e7\u00e3o p\u00fablica \u00e9 o ato de submeter, rebaixar, ridicularizar ou promover o vexame de algu\u00e9m publicamente. O p\u00fablico-alvo do evento tamb\u00e9m inclui crian\u00e7as e adolescentes, por isso buscamos manter um ambiente apropriado para todas as faixas et\u00e1rias. Sendo assim, linguagem e imagens sexualizadas n\u00e3o s\u00e3o adequadas para palestras e a\u00e7\u00f5es promocionais de patrocinadores.",
+      "styles": {},
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "N\u00e3o \u00e9 tolerado nenhum tipo de ass\u00e9dio,\u00a0"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "discrimina\u00e7\u00e3o"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": "\u00a0inapropriada ou humilha\u00e7\u00e3o p\u00fablica;"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "N\u00e3o \u00e9 tolerado o descumprimento das leis brasileiras;"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Toda pessoa presente no evento, independentemente do seu papel, est\u00e1 sujeita a estas regras."
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Ass\u00e9dio \u00e9 a a\u00e7\u00e3o de insistir, perseguir ou coagir outra pessoa a um comportamento involunt\u00e1rio."
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Discrimina\u00e7\u00e3o inapropriada \u00e9 o ato de separar, injuriar ou humilhar algu\u00e9m, promovendo sua exclus\u00e3o por um atributo particular."
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Humilha\u00e7\u00e3o p\u00fablica \u00e9 o ato de submeter, rebaixar, ridicularizar ou promover o vexame de algu\u00e9m publicamente."
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "O p\u00fablico-alvo do evento tamb\u00e9m inclui crian\u00e7as e adolescentes, por isso buscamos manter um ambiente apropriado para todas as faixas et\u00e1rias. Sendo assim, linguagem e imagens sexualizadas n\u00e3o s\u00e3o adequadas para palestras e a\u00e7\u00f5es promocionais de patrocinadores."
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "e1ddaec1-f262-492c-87d6-6e2c6431b20e": {
+      "@type": "slate",
+      "plaintext": "",
+      "styles": {},
+      "value": [
+        {
+          "children": [
+            {
+              "text": "\n"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "aaedb772-1828-4075-abab-1f31c2480d26",
+      "3477db4c-c7fb-4547-8fc9-f0f8ecf5b0bc",
+      "c7b03834-f346-4d18-a144-d30f0c7c9f90",
+      "1fbd4ffc-42da-4fd4-a716-488e1a9603f8",
+      "e15c567d-5449-4415-bcb6-ed6087aa4cc2",
+      "1a663f45-f510-490e-ac03-8d52469a4eb4",
+      "5a55a862-b745-4c4a-953d-f555e7ec4128",
+      "19fc5acc-d70c-4ada-b987-7ca0b36f1cbc",
+      "e1ddaec1-f262-492c-87d6-6e2c6431b20e"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-05-24T18:34:41+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Todos os participantes, instrutores e organizadores  da confer\u00eancia concordam em cumprir o C\u00f3digo de Conduta da Python Cerrado.",
+  "effective": "2025-05-24T19:03:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "codigo-de-conduta",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-05-24T20:00:21+00:00",
+  "nav_title": null,
+  "preview_caption": null,
+  "preview_image": null,
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "C\u00f3digo de Conduta",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-05-24T18:34:41+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-05-24T19:03:44+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

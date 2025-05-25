@@ -1,0 +1,79 @@
+{
+  "@id": "/patrocine/apoio/uniprocessus",
+  "@type": "Sponsor",
+  "UID": "5623b71c245b47f8b2c0b7dea45a1d1f",
+  "allow_discussion": null,
+  "created": "2025-05-24T22:15:13+00:00",
+  "description": "",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "uniprocessus",
+  "image": {
+    "blob_path": "5623b71c245b47f8b2c0b7dea45a1d1f/image/uniprocessus.png",
+    "content-type": "image/png",
+    "filename": "uniprocessus.png",
+    "height": 750,
+    "size": 24218,
+    "width": 1000
+  },
+  "image_caption": null,
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-05-24T22:15:19+00:00",
+  "review_state": "published",
+  "social_links": [
+    {
+      "@id": "4145170c-9791-49e8-a0e1-4dc5eb1e6001",
+      "href": [
+        {
+          "@id": "https://www.instagram.com/uniprocessus/",
+          "title": "www.instagram.com/uniprocessus/"
+        }
+      ],
+      "id": "instagram",
+      "title": "Instagram"
+    },
+    {
+      "@id": "5bd73447-2e9f-4069-b81d-60d793c253e6",
+      "href": [
+        {
+          "@id": "https://processus.edu.br/",
+          "title": "processus.edu.br/"
+        }
+      ],
+      "id": "website",
+      "title": "Site"
+    }
+  ],
+  "text": {
+    "content-type": "text/html",
+    "data": "<p>O UNIPROCESSUS tem suas atividades de ensino com cursos de bacharelado e de tecnologia. Os bacharelados pertencem \u00e0 \u00e1rea de Ci\u00eancias Sociais Aplicadas. Os cursos superiores de tecnologia est\u00e3o alocados no eixo de gest\u00e3o e tecnologia. Na modalidade p\u00f3s-gradua\u00e7\u00e3o, sua atua\u00e7\u00e3o est\u00e1 concentrada nas \u00e1reas de Ci\u00eancias Humanas e Ci\u00eancias Sociais Aplicadas. Na modalidade extens\u00e3o, projetos e programas s\u00e3o desenvolvidos tomando por base as \u00e1reas de conhecimento estabelecidas para os cursos de gradua\u00e7\u00e3o e p\u00f3s-gradua\u00e7\u00e3o, destinadas a \u00f3rg\u00e3os do governo e n\u00e3o governamentais, \u00e0 sociedade e ao cidad\u00e3o em geral, dando \u00eanfase \u00e0s necessidades da regi\u00e3o onde est\u00e1 inserida. Na modalidade de pesquisa, atua mediante concess\u00e3o de aux\u00edlio para execu\u00e7\u00e3o de projetos cient\u00edficos, concess\u00e3o de bolsas especiais, promo\u00e7\u00e3o de congressos e cong\u00eaneres, interc\u00e2mbio com outras institui\u00e7\u00f5es, divulga\u00e7\u00e3o dos resultados das pesquisas realizadas e outros meios ao seu alcance.</p>",
+    "encoding": "utf8"
+  },
+  "title": "UniProcessus",
+  "type_title": "Sponsor",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-05-24T22:15:13+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-05-24T22:15:19+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

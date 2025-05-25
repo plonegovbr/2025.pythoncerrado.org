@@ -1,0 +1,40 @@
+{
+  "@id": "/imagens/bronze.png",
+  "@type": "Image",
+  "UID": "f133752403e84e8d97a771e650334ab6",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-05-24T19:10:49+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "bronze.png",
+  "image": {
+    "blob_path": "f133752403e84e8d97a771e650334ab6/image/bronze.png",
+    "content-type": "image/png",
+    "filename": "bronze.png",
+    "height": 900,
+    "size": 466642,
+    "width": 1600
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-05-24T19:10:49+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "bronze.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,27 @@
+.block.sponsors {
+  @include default-container-width;
+  .sponsors.title {
+    @include block-title;
+    @include default-container-width;
+  }
+  .sponsorList {
+    > .sponsorTile {
+      @include sponsor-size-06;
+    }
+    > .ouro.sponsorTile {
+      @include sponsor-size-03;
+    }
+    > .prata.sponsorTile {
+      @include sponsor-size-05;
+    }
+    > .bronze.sponsorTile {
+      @include sponsor-size-06;
+    }
+    > .apoio.sponsorTile {
+      @include sponsor-size-05;
+    }
+    > .organizacao.sponsorTile {
+      @include sponsor-size-04;
+    }
+  }
+}

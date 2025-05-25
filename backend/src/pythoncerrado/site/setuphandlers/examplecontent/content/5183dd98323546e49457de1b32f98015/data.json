@@ -1,0 +1,79 @@
+{
+  "@id": "/patrocine/ouro/simples-consultoria",
+  "@type": "Sponsor",
+  "UID": "5183dd98323546e49457de1b32f98015",
+  "allow_discussion": null,
+  "created": "2025-05-24T18:58:10+00:00",
+  "description": "Apoiando as comunidade Python e Plone desde 2004",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "simples-consultoria",
+  "image": {
+    "blob_path": "5183dd98323546e49457de1b32f98015/image/simples.png",
+    "content-type": "image/png",
+    "filename": "simples.png",
+    "height": 768,
+    "size": 50184,
+    "width": 1024
+  },
+  "image_caption": null,
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-05-24T19:11:37+00:00",
+  "review_state": "published",
+  "social_links": [
+    {
+      "@id": "9a758487-09f9-42b9-90b4-24cd15155199",
+      "href": [
+        {
+          "@id": "https://simplesconsultoria.com.br",
+          "title": "simplesconsultoria.com.br"
+        }
+      ],
+      "id": "website",
+      "title": "Site"
+    },
+    {
+      "@id": "18c7b5a8-70dd-43c5-b92e-cc9be4793ee6",
+      "href": [
+        {
+          "@id": "https://github.com/simplesconsultoria",
+          "title": "github.com/simplesconsultoria"
+        }
+      ],
+      "id": "github",
+      "title": "GitHub"
+    }
+  ],
+  "text": {
+    "content-type": "text/html",
+    "data": "<p>A Simples Consultoria \u00e9 especializada em consultoria Python e Plone.</p>",
+    "encoding": "utf8"
+  },
+  "title": "Simples Consultoria",
+  "type_title": "Sponsor",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-05-24T18:58:10+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-05-24T19:03:45+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

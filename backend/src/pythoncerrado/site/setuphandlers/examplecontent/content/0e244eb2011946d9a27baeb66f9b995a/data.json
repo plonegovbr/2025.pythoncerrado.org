@@ -1,0 +1,40 @@
+{
+  "@id": "/imagens/uniprocessus.jpeg",
+  "@type": "Image",
+  "UID": "0e244eb2011946d9a27baeb66f9b995a",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-05-24T22:01:31+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "uniprocessus.jpeg",
+  "image": {
+    "blob_path": "0e244eb2011946d9a27baeb66f9b995a/image/uniprocessus.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "uniprocessus.jpeg",
+    "height": 407,
+    "size": 80945,
+    "width": 724
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-05-24T22:02:39+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "UniProcessus",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

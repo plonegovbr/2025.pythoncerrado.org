@@ -1,0 +1,262 @@
+{
+  "@id": "/Plone",
+  "@type": "Plone Site",
+  "UID": "plone_site_root",
+  "allow_discussion": null,
+  "audience": [
+    {
+      "@id": "f59d4635-5f42-4775-8641-9fbff8df46de",
+      "id": "f59d4635-5f42-4775-8641-9fbff8df46de",
+      "title": "Dev"
+    },
+    {
+      "@id": "1b882a1a-2f75-44bf-af32-c4095d47829c",
+      "id": "1b882a1a-2f75-44bf-af32-c4095d47829c",
+      "title": "SysAdmin"
+    },
+    {
+      "@id": "3e0faf55-6d23-447f-bbc3-3e7636b2384a",
+      "id": "3e0faf55-6d23-447f-bbc3-3e7636b2384a",
+      "title": "Cientista"
+    }
+  ],
+  "blocks": {
+    "91e40aae-51d8-489e-a523-de43fb81a85c": {
+      "@type": "sponsorsShowcaseBlock",
+      "styles": {
+        "align:noprefix": {
+          "--block-alignment": "var(--align-center)"
+        }
+      },
+      "title": ""
+    },
+    "d72f611a-c2f6-4c89-bb5a-93b2b2d851ac": {
+      "@type": "slider",
+      "autoplayDelay": 4000,
+      "autoplayEnabled": false,
+      "autoplayJump": false,
+      "slides": [
+        {
+          "@id": "4dbcd8d3-6287-47bf-9cd5-045964de0cf8",
+          "buttonText": "Saiba mais",
+          "description": "Conhe\u00e7a nosso evento",
+          "flagAlign": "left",
+          "head_title": "O Evento",
+          "hideButton": false,
+          "href": [
+            {
+              "@id": "resolveuid/dfbc90c036ae46eda9aaa3ddcf99fb16",
+              "Description": "Conheca a Python Cerrado",
+              "Title": "O evento",
+              "hasPreviewImage": null,
+              "image_field": "",
+              "title": "O evento"
+            }
+          ],
+          "preview_image": [
+            {
+              "@id": "resolveuid/996e8091399242bbb5e44bb199b99d5f",
+              "@type": "Image",
+              "CreationDate": "2025-05-24T15:14:22-03:00",
+              "Creator": "admin",
+              "Date": "2025-05-24T15:14:22-03:00",
+              "Description": "",
+              "EffectiveDate": "None",
+              "ExpirationDate": "None",
+              "ModificationDate": "2025-05-24T15:14:22-03:00",
+              "Subject": [],
+              "Title": "pycerrado-2024-02.JPG",
+              "Type": "Imagem",
+              "UID": "996e8091399242bbb5e44bb199b99d5f",
+              "cmf_uid": null,
+              "created": "2025-05-24T18:14:22+00:00",
+              "description": "",
+              "effective": "1969-12-31T03:00:00+00:00",
+              "end": null,
+              "exclude_from_nav": false,
+              "expires": "2499-12-31T03:00:00+00:00",
+              "getIcon": true,
+              "getId": "pycerrado-2024-02.jpg",
+              "getObjSize": "94.4 KB",
+              "getPath": "/Plone/imagens/pycerrado-2024-02.jpg",
+              "getRemoteUrl": null,
+              "getURL": "http://localhost:3000/imagens/pycerrado-2024-02.jpg",
+              "hasPreviewImage": null,
+              "head_title": null,
+              "id": "pycerrado-2024-02.jpg",
+              "image_field": "image",
+              "is_folderish": false,
+              "level": null,
+              "listCreators": [
+                "admin"
+              ],
+              "location": null,
+              "mime_type": "image/jpeg",
+              "modified": "2025-05-24T18:14:22+00:00",
+              "nav_title": null,
+              "portal_type": "Image",
+              "review_state": null,
+              "social_links": null,
+              "start": null,
+              "sync_uid": null,
+              "title": "pycerrado-2024-02.JPG",
+              "type_title": "Imagem"
+            }
+          ],
+          "title": "Python Cerrado 2025"
+        }
+      ],
+      "styles": {},
+      "theme": "default"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "d72f611a-c2f6-4c89-bb5a-93b2b2d851ac",
+      "91e40aae-51d8-489e-a523-de43fb81a85c"
+    ]
+  },
+  "complementary_logo": null,
+  "description": "",
+  "durations_keynote": [],
+  "durations_talk": [],
+  "durations_training": [],
+  "end": "2025-08-02T21:00:00",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "facebook_app_id": "",
+  "facebook_username": "",
+  "footer_colophon_text": "Site desenvolvido pela PloneGov-BR",
+  "footer_links": [
+    {
+      "@id": "67afe1dc-867a-4fe5-98a4-4f69aa759155",
+      "href": [
+        {
+          "@id": "resolveuid/dfbc90c036ae46eda9aaa3ddcf99fb16",
+          "@type": "Document",
+          "Description": "Conheca a Python Cerrado",
+          "Title": "O evento",
+          "title": "O evento"
+        }
+      ],
+      "title": "Contato"
+    },
+    {
+      "@id": "6b363eed-6cd5-467a-b70c-7fb05e53a4ef",
+      "href": [
+        {
+          "@id": "resolveuid/efebd63925ef4a0eb6e119ad6b0a781a",
+          "@type": "Document",
+          "Description": "Todos os participantes, instrutores e organizadores  da confer\u00eancia concordam em cumprir o C\u00f3digo de Conduta da Python Cerrado.",
+          "Title": "C\u00f3digo de Conduta",
+          "title": "C\u00f3digo de Conduta"
+        }
+      ],
+      "title": "C\u00f3digo. de Conduta"
+    }
+  ],
+  "footer_logos": [],
+  "footer_logos_container_width": "default",
+  "footer_logos_size": "s",
+  "has_fat_menu": true,
+  "has_intranet_header": false,
+  "header_actions": [],
+  "id": "Plone",
+  "intranet_flag": null,
+  "is_folderish": true,
+  "items_total": 5,
+  "language": "##DEFAULT##",
+  "levels": [
+    {
+      "@id": "bf82dd87-e832-46c4-93d9-ab732b0c2796",
+      "id": "bf82dd87-e832-46c4-93d9-ab732b0c2796",
+      "title": "Iniciante"
+    },
+    {
+      "@id": "00dfc721-461f-413a-bf93-8d32b7652938",
+      "id": "00dfc721-461f-413a-bf93-8d32b7652938",
+      "title": "Intermedi\u00e1rio"
+    },
+    {
+      "@id": "db001064-afc5-4a62-a185-9621794835ee",
+      "id": "db001064-afc5-4a62-a185-9621794835ee",
+      "title": "Avan\u00e7ado"
+    }
+  ],
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "logo": {
+    "blob_path": "plone_site_root/logo/logo.png",
+    "content-type": "image/png",
+    "filename": "logo.png",
+    "height": 592,
+    "size": 117079,
+    "width": 1690
+  },
+  "preview_caption_link": null,
+  "review_state": null,
+  "share_social_data": true,
+  "social_links": [
+    {
+      "@id": "4593a3a0-43a6-4e50-8e58-6b0602f61ede",
+      "href": [
+        {
+          "@id": "https://instagram.com/pythoncerrado/",
+          "title": "instagram.com/pythoncerrado/"
+        }
+      ],
+      "id": "instagram",
+      "title": "Instagram"
+    },
+    {
+      "@id": "89aadcda-7083-4d3b-af23-77b6b5179a95",
+      "href": [
+        {
+          "@id": "https://pynews.com.br/@pythoncerrado",
+          "title": "pynews.com.br/@pythoncerrado"
+        }
+      ],
+      "id": "mastodon",
+      "title": "Mastodon"
+    },
+    {
+      "@id": "72036d8b-b861-4bb0-a25d-029bbbbf5fc7",
+      "href": [
+        {
+          "@id": "https://bsky.app/profile/pythoncerrado.org",
+          "title": "bsky.app/profile/pythoncerrado.org"
+        }
+      ],
+      "id": "bluesky",
+      "title": "BlueSky"
+    },
+    {
+      "@id": "d2ade5d1-f64d-40f7-9a43-450990c23cf1",
+      "href": [
+        {
+          "@id": "https://twitter.com/pythoncerrado/",
+          "title": "twitter.com/pythoncerrado/"
+        }
+      ],
+      "id": "x",
+      "title": "X"
+    }
+  ],
+  "start": "2025-07-30T12:00:00",
+  "title": "Python Cerrado 2025",
+  "tracks": [
+    {
+      "@id": "plone-symposium",
+      "id": "plone-symposium",
+      "title": "Plone Symposium"
+    }
+  ],
+  "type_title": "Plone Site",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null,
+  "x_username": ""
+}

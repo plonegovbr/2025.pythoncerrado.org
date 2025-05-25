@@ -1,0 +1,40 @@
+{
+  "@id": "/imagens/simples.png",
+  "@type": "Image",
+  "UID": "c1abd7bcc84e461798e9cf8d53f0ed5b",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-05-23T20:38:08+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "simples.png",
+  "image": {
+    "blob_path": "c1abd7bcc84e461798e9cf8d53f0ed5b/image/simples.png",
+    "content-type": "image/png",
+    "filename": "simples.png",
+    "height": 768,
+    "size": 50184,
+    "width": 1024
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-05-24T18:01:52+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "simples.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

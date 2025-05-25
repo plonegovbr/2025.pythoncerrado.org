@@ -1,0 +1,13 @@
+{
+  "/Plone/images": "/Plone/imagens",
+  "/Plone/images/plone-foundation.png": "/Plone/imagens/plone-foundation.png",
+  "/Plone/images/plonegovbr.png": "/Plone/imagens/plonegovbr.png",
+  "/Plone/images/simples.png": "/Plone/imagens/simples.png",
+  "/Plone/patrocine/diamante": "/Plone/patrocine/apoio",
+  "/Plone/patrocine/diamante/simples-consultoria": "/Plone/patrocine/ouro/simples-consultoria",
+  "/Plone/patrocine/organizacao/simples-consultoria": "/Plone/patrocine/ouro/simples-consultoria",
+  "/Plone/sobre/uniprocessus": "/Plone/sobre/local",
+  "/Plone/sobre/uniprocessus/auditorio-dorneles-tremea": "/Plone/sobre/local/auditorio-dorneles-tremea",
+  "/Plone/sobre/uniprocessus/auditorio-jean-ferri": "/Plone/sobre/local/auditorio-jean-ferri",
+  "/Plone/uniprocessus.jpeg": "/Plone/imagens/uniprocessus.jpeg"
+}

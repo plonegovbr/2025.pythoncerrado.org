@@ -1,0 +1,32 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    i18n_domain="pythoncerrado.site"
+    >
+
+  <genericsetup:registerProfile
+      name="default"
+      title="Python Cerrado 2025: Install"
+      description="Package to configure a new Python Cerrado 2025 site"
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      directory="profiles/default"
+      />
+
+  <genericsetup:registerProfile
+      name="demo"
+      title="Python Cerrado 2025: Demo content"
+      description="Create example content to showcase the new website"
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      directory="profiles/demo"
+      pre_handler=".setuphandlers.demo.create_example_content"
+      />
+  <!-- Hide Uninstall Profile-->
+  <utility
+      factory=".setuphandlers.HiddenProfiles"
+      name="pythoncerrado.site"
+      />
+
+
+  <include package=".upgrades" />
+
+</configure>

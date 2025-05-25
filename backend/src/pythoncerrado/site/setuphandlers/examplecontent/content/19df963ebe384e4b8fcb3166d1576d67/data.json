@@ -1,0 +1,40 @@
+{
+  "@id": "/imagens/ouro.png",
+  "@type": "Image",
+  "UID": "19df963ebe384e4b8fcb3166d1576d67",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-05-24T19:10:48+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "ouro.png",
+  "image": {
+    "blob_path": "19df963ebe384e4b8fcb3166d1576d67/image/ouro.png",
+    "content-type": "image/png",
+    "filename": "ouro.png",
+    "height": 900,
+    "size": 564202,
+    "width": 1600
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-05-24T19:10:48+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "ouro.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,127 @@
+{
+  "@id": "/sobre",
+  "@type": "Document",
+  "UID": "dfbc90c036ae46eda9aaa3ddcf99fb16",
+  "allow_discussion": null,
+  "blocks": {
+    "7442b2ae-ee52-4f58-90fb-03cf8279ef8b": {
+      "@type": "slate",
+      "plaintext": "O local",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "O local"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "873cd226-2b87-4bd2-a49c-dd5d8c290d27": {
+      "@type": "description"
+    },
+    "96160614-bf6b-447f-a3bb-4aa665d1522d": {
+      "@type": "teaser",
+      "description": "A Python Cerrado 2025 ocorre nas depend\u00eancias da UniProcessus",
+      "head_title": null,
+      "href": [
+        {
+          "@id": "../resolveuid/77a07ae3c36540609adee86401f03403",
+          "@type": "Venue",
+          "Description": "A Python Cerrado 2025 ocorre nas depend\u00eancias da UniProcessus",
+          "Subject": [],
+          "Title": "UniProcessus",
+          "description": "A Python Cerrado 2025 ocorre nas depend\u00eancias da UniProcessus",
+          "effective": "1969-12-31T03:00:00+00:00",
+          "end": null,
+          "getObjSize": "0 KB",
+          "getRemoteUrl": null,
+          "hasPreviewImage": null,
+          "head_title": null,
+          "image_field": "preview_image_link",
+          "mime_type": "text/plain",
+          "nav_title": "Local",
+          "review_state": "published",
+          "start": null,
+          "title": "UniProcessus",
+          "type_title": "Venue"
+        }
+      ],
+      "overwrite": false,
+      "styles": {
+        "align": "left"
+      },
+      "theme": "roxo",
+      "title": "UniProcessus"
+    },
+    "9ab53c8b-5677-447a-b6c6-55bd35f01ef1": {
+      "@type": "slate"
+    },
+    "f84c764e-2e26-43bf-b1a3-3bc53b2b49d2": {
+      "@type": "title"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "f84c764e-2e26-43bf-b1a3-3bc53b2b49d2",
+      "873cd226-2b87-4bd2-a49c-dd5d8c290d27",
+      "7442b2ae-ee52-4f58-90fb-03cf8279ef8b",
+      "96160614-bf6b-447f-a3bb-4aa665d1522d",
+      "9ab53c8b-5677-447a-b6c6-55bd35f01ef1"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-05-24T18:15:02+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Conheca a Python Cerrado",
+  "effective": "2025-05-24T19:03:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "sobre",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-05-25T12:12:00+00:00",
+  "nav_title": "Sobre",
+  "preview_caption": null,
+  "preview_image": null,
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "O evento",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-05-24T18:15:02+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-05-24T19:03:44+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

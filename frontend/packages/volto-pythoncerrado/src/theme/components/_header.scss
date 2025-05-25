@@ -1,0 +1,16 @@
+.header {
+  .logo-nav-wrapper {
+    .logo {
+      img {
+        width: 160px;
+      }
+    }
+  }
+  .navigation .item.active::before,
+  .navigation .item:hover::before {
+    border-color: var(--fatmenu-background, #000);
+  }
+  nav.navigation a.item {
+    color: var(--header-foreground);
+  }
+}

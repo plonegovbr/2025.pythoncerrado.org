@@ -1,0 +1,90 @@
+:root {
+  // Layout
+  --narrow-container-width: 1024px;
+  --default-container-width: 1024px;
+  --layout-container-width: 1440px;
+  // Theme
+  --primary-color: #f0f0f7;
+  --primary-foreground-color: #410b57;
+  --secondary-color: #08807a;
+  --secondary-foreground-color: #f0f0f7;
+  --accent-color: #7f085e;
+  --accent-foreground-color: #f0f0f7;
+
+  --theme-color: var(--primary-color);
+  --theme-foreground-color: var(--primary-foreground-color);
+
+  // CTA
+  --cta-color-start: #410b57;
+  --cta-color-end: var(--accent-color);
+  --cta-color-fg: var(--accent-foreground-color);
+
+  // Header
+  --header-background: var(--primary-color);
+  --header-foreground: var(--secondary-color);
+
+  // Breadcrumbs
+  --breadcrumbs-background: var(--secondary-color);
+  --breadcrumbs-foreground: var(--secondary-foreground-color);
+
+  // Fat Menu
+  --fatmenu-background: var(--secondary-color);
+  --fatmenu-foreground: var(--secondary-foreground-color);
+
+  // Search bar
+  --search-background: var(--secondary-color);
+  --search-foreground: var(--secondary-foreground-color);
+
+  --text-color: rgb(39 38 38);
+  --link-color: var(--text-color);
+  --link-foreground-color: var(--link-color);
+
+  --background-color: var(--primary-color);
+
+  // Components
+  --social-network-icon-color-main: var(--secondary-color);
+  --social-network-icon-color-hover: var(--accent-color);
+  --social-network-background-main: transparent;
+  --social-network-background-hover: transparent;
+  // Fonts
+  --font-weight-thin: 100;
+  --font-weight-extra-light: 200;
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semi-bold: 600;
+  --font-weight-bold: 700;
+  --font-weight-extra-bold: 800;
+  --font-weight-bolder: 900;
+  --font-size-2xs: 12px;
+  --font-size-xs: 14px;
+  --font-size-s: 18px;
+  --font-size-m: 21px;
+  --font-size-l: 24px;
+  --font-size-xl: 30px;
+  --font-size-2xl: 33px;
+  --font-size-3xl: 36px;
+  --font-size-4xl: 42px;
+  --font-size-5xl: 48px;
+  --line-height-xs: 16px;
+  --line-height-s: 18px;
+  --line-height-m: 24px;
+  --line-height-l: 30px;
+  --line-height-xl: 33px;
+  --line-height-2xl: 36px;
+  --line-height-3xl: 42px;
+  --line-height-4xl: 48px;
+  --line-height-5xl: 56px;
+  // Colors
+  // Accessibility
+  --a18n-color-bg: #4e4e4e;
+  --a18n-color-icon: rgb(255, 255, 255);
+  --a18n-color-text: rgb(255, 255, 255);
+  --a18n-font-size: 18px;
+  --a18n-font-weight: 600;
+  --a18n-line-height: 18px;
+}
+
+body {
+  background-color: var(--background-color);
+}

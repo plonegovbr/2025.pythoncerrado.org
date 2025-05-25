@@ -1,0 +1,40 @@
+{
+  "@id": "/sobre/brasilia-df/pontao",
+  "@type": "Image",
+  "UID": "050be602592241938dac2202807523ae",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-05-24T22:25:50+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "pontao",
+  "image": {
+    "blob_path": "050be602592241938dac2202807523ae/image/Pont\u00e3o",
+    "content-type": "image/jpeg",
+    "filename": "Pont\u00e3o",
+    "height": 1066,
+    "size": 498976,
+    "width": 1600
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-05-24T22:25:50+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "Pont\u00e3o",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

@@ -1,0 +1,474 @@
+{
+  "@id": "/sobre/historia",
+  "@type": "Document",
+  "UID": "a8b768a700044265801cdc3ebcf6525b",
+  "allow_discussion": null,
+  "blocks": {
+    "00f8350f-6a8b-44e1-9dd9-dc0571753be4": {
+      "@type": "slate",
+      "plaintext": "2019 - Goi\u00e2nia, Goi\u00e1s",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2019 - Goi\u00e2nia, Goi\u00e1s"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "18d1d46e-069c-4207-b035-049161b171ff": {
+      "@type": "description"
+    },
+    "21f79055-a405-43a9-a5f8-1ed917509dea": {
+      "@type": "slate",
+      "plaintext": "Com a realiza\u00e7\u00e3o conjunta com a Plone Conference, a Python Cerrado 2024 alcan\u00e7ou novos horizontes.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Com a realiza\u00e7\u00e3o conjunta com a Plone Conference, a Python Cerrado 2024 alcan\u00e7ou novos horizontes."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "313adf3b-c589-419e-b732-b651f06710d3": {
+      "@type": "title"
+    },
+    "390d07d0-96b7-4624-b61f-a2bef5cd76a5": {
+      "@type": "slate"
+    },
+    "40580f06-950f-4047-87ea-60dae4073817": {
+      "@type": "slate",
+      "plaintext": "N\u00e3o foi incomum encontrar rodas de conversa com pessoas trocando id\u00e9ias, usando dois ou tr\u00eas idiomas, e at\u00e9 mesmo aplicativos de tradu\u00e7\u00e3o.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "N\u00e3o foi incomum encontrar rodas de conversa com pessoas trocando id\u00e9ias, usando dois ou tr\u00eas idiomas, e at\u00e9 mesmo aplicativos de tradu\u00e7\u00e3o."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "5029adf6-62b5-46c6-9154-b347b2bf2f26": {
+      "@type": "slate",
+      "plaintext": "O evento tem como objetivo promover a plataforma Python entre universidades, empresas e institui\u00e7\u00f5es da sociedade civil, ao mesmo tempo que foca em temas relacionados ao Software Livre. Isso, por sua vez, incentiva a difus\u00e3o da cultura associada ao tema e a promo\u00e7\u00e3o e est\u00edmulo ao desenvolvimento da Regi\u00e3o Centro-Oeste.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "O evento tem como objetivo promover a plataforma Python entre universidades, empresas e institui\u00e7\u00f5es da sociedade civil, ao mesmo tempo que foca em temas relacionados ao Software Livre. Isso, por sua vez, incentiva a difus\u00e3o da cultura associada ao tema e a promo\u00e7\u00e3o e est\u00edmulo ao desenvolvimento da Regi\u00e3o Centro-Oeste."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "6a839bcb-0e44-48db-924f-85bc903ebdc9": {
+      "@type": "slate",
+      "plaintext": "A edi\u00e7\u00e3o inaugural do Python Cerrado foi realizada nos dias 29 e 30 de setembro de 2018, no Campus Gama da Universidade de Bras\u00edlia, com 270 participantes que assistiram a 16 apresenta\u00e7\u00f5es e 6 workshops.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "A edi\u00e7\u00e3o inaugural do Python Cerrado foi realizada nos dias 29 e 30 de setembro de 2018, no Campus Gama da Universidade de Bras\u00edlia, com 270 participantes que assistiram a 16 apresenta\u00e7\u00f5es e 6 workshops."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "6f46cae5-6b5e-43bb-b501-58cadcbface6": {
+      "@type": "slate",
+      "plaintext": "",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "\n"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "730a4413-d9ed-433b-85b8-c74a67ca055c": {
+      "@type": "image",
+      "align": "center",
+      "credit": {},
+      "description": "",
+      "image_field": "image",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        }
+      },
+      "theme": "default",
+      "title": "Participantes da Python Cerrado 2024",
+      "url": "../../resolveuid/cf46d3e832d6483a92a483b37a1f2ac7"
+    },
+    "73e7a729-7775-4b73-b5d3-8fa86cf93292": {
+      "@type": "image",
+      "align": "center",
+      "credit": {},
+      "description": "",
+      "image_field": "image",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        }
+      },
+      "theme": "default",
+      "title": "Participantes da Python Cerrado 2018",
+      "url": "../../resolveuid/0e9a3f35d0f94723bf09f898e083b9cb"
+    },
+    "76715342-5cab-4997-8421-105856917e07": {
+      "@type": "slate",
+      "plaintext": " 12 tutoriais, 80 palestras e 3 keynotes, apresentados por mais de 80 palestrantes e instrutores.  30 palestras-rel\u00e2mpago, abordando temas como F\u00edsica b\u00e1sica, Intelig\u00eancia Artificial e at\u00e9 exerc\u00edcios de yoga.  2 dias de sprints, que trouxeram mentoria, colabora\u00e7\u00e3o e muitas contribui\u00e7\u00f5es para c\u00f3digo e documenta\u00e7\u00e3o. V\u00e1rios open spaces para discuss\u00f5es, troca de ideias e planejamento de projetos Python e Plone .",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "12"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": "\u00a0tutoriais,\u00a0"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "80"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": "\u00a0palestras e\u00a0"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "3"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": "\u00a0keynotes, apresentados por mais de\u00a0"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "80"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": "\u00a0palestrantes e instrutores."
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "30"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": "\u00a0palestras-rel\u00e2mpago, abordando temas como F\u00edsica b\u00e1sica, Intelig\u00eancia Artificial e at\u00e9 exerc\u00edcios de yoga."
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "2"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": "\u00a0dias de sprints, que trouxeram mentoria, colabora\u00e7\u00e3o e muitas contribui\u00e7\u00f5es para c\u00f3digo e documenta\u00e7\u00e3o."
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "V\u00e1rios\u00a0"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "open spaces"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": "\u00a0para discuss\u00f5es, troca de ideias e planejamento de projetos\u00a0"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Python"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": "\u00a0e\u00a0"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Plone"
+                    }
+                  ],
+                  "type": "strong"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "9ee11e16-18b4-442a-9911-27ec7a4882e7": {
+      "@type": "slate",
+      "plaintext": "Conte\u00fado para todos os gostos",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Conte\u00fado para todos os gostos"
+            }
+          ],
+          "type": "h3"
+        }
+      ]
+    },
+    "d93c33fd-17de-4c9a-af1b-4c7278131994": {
+      "@type": "slate",
+      "plaintext": "2024  - Bras\u00edlia, DF",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2024  - Bras\u00edlia, DF"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "dbb289c9-0f25-4316-b5e7-5e571d067ea8": {
+      "@type": "slate",
+      "plaintext": "Recebemos participantes de 19 pa\u00edses e representantes de 13 estados brasileiros \u2013 do Acre ao Rio Grande do Sul \u2013 transformando nosso evento regional em uma experi\u00eancia verdadeiramente global.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Recebemos participantes de\u00a0"
+            },
+            {
+              "children": [
+                {
+                  "text": "19 pa\u00edses"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": "\u00a0e representantes de\u00a0"
+            },
+            {
+              "children": [
+                {
+                  "text": "13 estados brasileiros"
+                }
+              ],
+              "type": "strong"
+            },
+            {
+              "text": "\u00a0\u2013 do Acre ao Rio Grande do Sul \u2013 transformando nosso evento regional em uma experi\u00eancia verdadeiramente global."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ef879382-c972-4ed9-851f-9c52a3c9ee97": {
+      "@type": "slate",
+      "plaintext": "2018 - Bras\u00edlia, DF",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "2018 - Bras\u00edlia, DF"
+            }
+          ],
+          "type": "h2"
+        }
+      ]
+    },
+    "f838eaec-157c-4724-bfeb-4d4d8d3957f3": {
+      "@type": "slate",
+      "plaintext": "A programa\u00e7\u00e3o foi t\u00e3o diversa quanto nosso p\u00fablico:",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "A programa\u00e7\u00e3o foi t\u00e3o diversa quanto nosso p\u00fablico:"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "fc93051c-1535-4a94-9834-5f7676a42efa": {
+      "@type": "slate",
+      "plaintext": "Organizada pelo GruPy-GO, a segunda edi\u00e7\u00e3o do Python Cerrado aconteceu no dia 5 de setembro de 2019, como parte da Campus Party Goi\u00e1s e contou com oito apresenta\u00e7\u00f5es.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Organizada pelo GruPy-GO, a segunda edi\u00e7\u00e3o do Python Cerrado aconteceu no dia 5 de setembro de 2019, como parte da Campus Party Goi\u00e1s e contou com oito apresenta\u00e7\u00f5es."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "313adf3b-c589-419e-b732-b651f06710d3",
+      "18d1d46e-069c-4207-b035-049161b171ff",
+      "5029adf6-62b5-46c6-9154-b347b2bf2f26",
+      "d93c33fd-17de-4c9a-af1b-4c7278131994",
+      "730a4413-d9ed-433b-85b8-c74a67ca055c",
+      "21f79055-a405-43a9-a5f8-1ed917509dea",
+      "dbb289c9-0f25-4316-b5e7-5e571d067ea8",
+      "40580f06-950f-4047-87ea-60dae4073817",
+      "9ee11e16-18b4-442a-9911-27ec7a4882e7",
+      "f838eaec-157c-4724-bfeb-4d4d8d3957f3",
+      "76715342-5cab-4997-8421-105856917e07",
+      "6f46cae5-6b5e-43bb-b501-58cadcbface6",
+      "00f8350f-6a8b-44e1-9dd9-dc0571753be4",
+      "fc93051c-1535-4a94-9834-5f7676a42efa",
+      "ef879382-c972-4ed9-851f-9c52a3c9ee97",
+      "73e7a729-7775-4b73-b5d3-8fa86cf93292",
+      "390d07d0-96b7-4624-b61f-a2bef5cd76a5",
+      "6a839bcb-0e44-48db-924f-85bc903ebdc9"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-05-24T22:11:26+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "Python Cerrado \u00e9 o encontro da comunidade Python da regi\u00e3o Centro-Oeste do Brasil. Num contexto diversificado e dedicado \u00e0 troca de experi\u00eancias e conhecimentos, o evento est\u00e1 aberto a pessoas de diversas origens, independentemente do seu n\u00edvel de profici\u00eancia na l\u00edngua.",
+  "effective": "2025-05-24T22:12:04+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "historia",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-05-24T22:13:05+00:00",
+  "nav_title": "Edi\u00e7\u00f5es Anteriores",
+  "preview_caption": null,
+  "preview_image": null,
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Hist\u00f3ria",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-05-24T22:11:26+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-05-24T22:12:04+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

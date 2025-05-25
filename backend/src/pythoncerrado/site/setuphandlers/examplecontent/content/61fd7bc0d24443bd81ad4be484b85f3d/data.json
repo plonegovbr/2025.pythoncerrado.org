@@ -1,0 +1,174 @@
+{
+  "@id": "/sobre/brasilia-df",
+  "@type": "Document",
+  "UID": "61fd7bc0d24443bd81ad4be484b85f3d",
+  "allow_discussion": null,
+  "blocks": {
+    "0de3dd52-290b-448a-8eef-5df701b00bac": {
+      "@type": "slate",
+      "plaintext": "Bras\u00edlia, cidade concebida h\u00e1 pouco mais de seis d\u00e9cadas, personifica sua beleza por meio de aten\u00e7\u00e3o meticulosa aos detalhes, designs inovadores e uma paleta de cores vibrantes. Servindo como a terceira capital do Brasil, sucedeu sucessivamente a Salvador e ao Rio de Janeiro, inaugurada oficialmente em 1960 sob a lideran\u00e7a do presidente Juscelino Kubitschek. Este projeto audacioso simboliza o auge do planejamento urbano e da arquitetura moderna do s\u00e9culo XX. O esfor\u00e7o visava centralizar a popula\u00e7\u00e3o do pa\u00eds e salvaguardar a capital de potenciais amea\u00e7as navais estrangeiras ao longo da costa.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Bras\u00edlia, cidade concebida h\u00e1 pouco mais de seis d\u00e9cadas, personifica sua beleza por meio de aten\u00e7\u00e3o meticulosa aos detalhes, designs inovadores e uma paleta de cores vibrantes. Servindo como a terceira capital do Brasil, sucedeu sucessivamente a Salvador e ao Rio de Janeiro, inaugurada oficialmente em 1960 sob a lideran\u00e7a do presidente Juscelino Kubitschek. Este projeto audacioso simboliza o auge do planejamento urbano e da arquitetura moderna do s\u00e9culo XX. O esfor\u00e7o visava centralizar a popula\u00e7\u00e3o do pa\u00eds e salvaguardar a capital de potenciais amea\u00e7as navais estrangeiras ao longo da costa."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "1c8e262e-f154-4a05-a527-a2faeb01fbcf": {
+      "@type": "title"
+    },
+    "3b54f878-d11d-431a-811d-cf8f0a3c0a27": {
+      "@type": "slate"
+    },
+    "493a93cd-d629-4fbc-a597-01c41c01039e": {
+      "@type": "slate",
+      "plaintext": "Com uma popula\u00e7\u00e3o superior a tr\u00eas milh\u00f5es de habitantes, o projeto central de Bras\u00edlia, conhecido como Plano Piloto, foi idealizado pelo urbanista L\u00facio Costa e pelo arquiteto Oscar Niemeyer. Assemelhando-se ao formato de um avi\u00e3o, este design conquistou um lugar na Lista do Patrim\u00f4nio Cultural Mundial da UNESCO, tornando-se a maior \u00e1rea urbana do mundo listada como Patrim\u00f4nio Mundial.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Com uma popula\u00e7\u00e3o superior a tr\u00eas milh\u00f5es de habitantes, o projeto central de Bras\u00edlia, conhecido como Plano Piloto, foi idealizado pelo urbanista L\u00facio Costa e pelo arquiteto Oscar Niemeyer. Assemelhando-se ao formato de um avi\u00e3o, este design conquistou um lugar na Lista do Patrim\u00f4nio Cultural Mundial da UNESCO, tornando-se a maior \u00e1rea urbana do mundo listada como Patrim\u00f4nio Mundial."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "b4752413-865e-49d4-a982-5fb071ca718d": {
+      "@type": "image",
+      "align": "center",
+      "credit": {},
+      "description": "",
+      "image_field": "image",
+      "size": "l",
+      "styles": {
+        "blockWidth:noprefix": {
+          "--block-width": "var(--default-container-width)"
+        }
+      },
+      "theme": "default",
+      "title": "Esplanada dos Minist\u00e9rios",
+      "url": "../../resolveuid/6f070a9994c44dcf928d5c65ec117a6e"
+    },
+    "ba231b79-2271-4744-8987-7d9e862c0041": {
+      "@type": "slate",
+      "plaintext": "Bras\u00edlia \u00e9 um testemunho das possibilidades de uma cidade meticulosamente planejada, onde sua singularidade arquitet\u00f4nica deixa uma impress\u00e3o duradoura em todos que a visitam.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Bras\u00edlia \u00e9 um testemunho das possibilidades de uma cidade meticulosamente planejada, onde sua singularidade arquitet\u00f4nica deixa uma impress\u00e3o duradoura em todos que a visitam."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "e00770ea-b524-4d60-8cad-c2d07b2b7745": {
+      "@type": "slate",
+      "plaintext": "O cora\u00e7\u00e3o da cidade, o Plano Piloto, \u00e9 definido pela intersec\u00e7\u00e3o de duas grandes avenidas conhecidas como Eixo Monumental e Eixo Rodovi\u00e1rio. O Eixo Monumental abriga v\u00e1rios marcos ic\u00f4nicos, incluindo a Pra\u00e7a dos Tr\u00eas Poderes, o Pal\u00e1cio do Planalto, o Congresso Nacional, a Catedral Metropolitana de Bras\u00edlia e a Torre de TV. J\u00e1 o Eixo Rodovi\u00e1rio, dividido em \u201calas\u201d Norte e Sul, \u00e9 composto por blocos residenciais que atendem \u00e0s caracter\u00edsticas pr\u00e9-determinadas no projeto L\u00facio Costa. Pr\u00e9dios residenciais, por exemplo, erguem-se graciosamente sobre colunas, com suas palafitas abrindo-se para amplas \u00e1reas verdes",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "O cora\u00e7\u00e3o da cidade, o Plano Piloto, \u00e9 definido pela intersec\u00e7\u00e3o de duas grandes avenidas conhecidas como Eixo Monumental e Eixo Rodovi\u00e1rio. O Eixo Monumental abriga v\u00e1rios marcos ic\u00f4nicos, incluindo a Pra\u00e7a dos Tr\u00eas Poderes, o Pal\u00e1cio do Planalto, o Congresso Nacional, a Catedral Metropolitana de Bras\u00edlia e a Torre de TV. J\u00e1 o Eixo Rodovi\u00e1rio, dividido em \u201calas\u201d Norte e Sul, \u00e9 composto por blocos residenciais que atendem \u00e0s caracter\u00edsticas pr\u00e9-determinadas no projeto L\u00facio Costa. Pr\u00e9dios residenciais, por exemplo, erguem-se graciosamente sobre colunas, com suas palafitas abrindo-se para amplas \u00e1reas verdes"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "ecd90008-4366-47b8-a94c-8e9328e057c2": {
+      "@type": "slate",
+      "plaintext": "Dentro da cidade, o Parque Municipal Dona Sarah Kubitschek, muitas vezes referido simplesmente como Parque da Cidade, \u00e9 um dos principais destinos de lazer ao ar livre da capital. Abrangendo vastos 420 hectares, est\u00e1 entre os maiores parques urbanos do mundo, contando com quadras esportivas, parque de divers\u00f5es, lago artificial, churrasqueira, centro h\u00edpico, trilhas para caminhada e ciclovias. Ao longo das pitorescas margens do Lago Parano\u00e1, voc\u00ea encontra excelentes restaurantes e bares, atraindo praticantes de esportes n\u00e1uticos nos finais de semana. Atividades como stand-up paddle, canoagem e kitesurf s\u00e3o particularmente populares aqui.",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Dentro da cidade, o Parque Municipal Dona Sarah Kubitschek, muitas vezes referido simplesmente como Parque da Cidade, \u00e9 um dos principais destinos de lazer ao ar livre da capital. Abrangendo vastos 420 hectares, est\u00e1 entre os maiores parques urbanos do mundo, contando com quadras esportivas, parque de divers\u00f5es, lago artificial, churrasqueira, centro h\u00edpico, trilhas para caminhada e ciclovias. Ao longo das pitorescas margens do Lago Parano\u00e1, voc\u00ea encontra excelentes restaurantes e bares, atraindo praticantes de esportes n\u00e1uticos nos finais de semana. Atividades como stand-up paddle, canoagem e kitesurf s\u00e3o particularmente populares aqui."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "1c8e262e-f154-4a05-a527-a2faeb01fbcf",
+      "b4752413-865e-49d4-a982-5fb071ca718d",
+      "3b54f878-d11d-431a-811d-cf8f0a3c0a27",
+      "0de3dd52-290b-448a-8eef-5df701b00bac",
+      "493a93cd-d629-4fbc-a597-01c41c01039e",
+      "e00770ea-b524-4d60-8cad-c2d07b2b7745",
+      "ecd90008-4366-47b8-a94c-8e9328e057c2",
+      "ba231b79-2271-4744-8987-7d9e862c0041"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-05-24T22:25:33+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": "2025-05-24T22:26:31+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "brasilia-df",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-05-24T22:26:54+00:00",
+  "nav_title": null,
+  "preview_caption": null,
+  "preview_image": {
+    "blob_path": "61fd7bc0d24443bd81ad4be484b85f3d/preview_image/esplanada.jpeg",
+    "content-type": "image/jpeg",
+    "filename": "esplanada.jpeg",
+    "height": 900,
+    "size": 224425,
+    "width": 1600
+  },
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Bras\u00edlia, DF",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-05-24T22:25:33+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-05-24T22:26:31+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

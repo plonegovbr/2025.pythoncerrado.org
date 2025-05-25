@@ -1,0 +1,40 @@
+{
+  "@id": "/imagens/apoio.png",
+  "@type": "Image",
+  "UID": "3b24844ac9b54f3aab46563406fc83bb",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-05-24T19:10:50+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "apoio.png",
+  "image": {
+    "blob_path": "3b24844ac9b54f3aab46563406fc83bb/image/apoio.png",
+    "content-type": "image/png",
+    "filename": "apoio.png",
+    "height": 900,
+    "size": 728108,
+    "width": 1600
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-05-24T19:10:50+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "apoio.png",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}

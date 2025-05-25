@@ -1,0 +1,63 @@
+{
+  "name": "@plonegovbr/volto-pythoncerrado",
+  "version": "20250525.0.0",
+  "description": "Site da Python Cerrado 2025",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "keywords": [
+    "volto-addon",
+    "volto",
+    "plone",
+    "react"
+  ],
+  "author": "PloneGov-BR",
+  "homepage": "https://github.com/plonegovbr/2025.pythoncerrado.org#readme",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:plonegovbr/2025.pythoncerrado.org"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "i18n": "rm -rf build/messages && NODE_ENV=production i18n --addon",
+    "dry-release": "release-it --dry-run",
+    "release": "release-it",
+    "release-major-alpha": "release-it major --preRelease=alpha",
+    "release-alpha": "release-it --preRelease=alpha"
+  },
+  "addons": [
+    "@eeacms/volto-accordion-block",
+    "@kitconcept/volto-slider-block",
+    "@kitconcept/volto-social-blocks",
+    "@mbarde/volto-image-crop-widget",
+    "volto-form-block",
+    "@plonegovbr/volto-social-media",
+    "@kitconcept/volto-button-block",
+    "@plone-collective/volto-authomatic",
+    "@plone-collective/volto-eventbrite-block",
+    "@plone-collective/volto-techevent",
+    "@eeacms/volto-matomo",
+    "@kitconcept/volto-light-theme"
+  ],
+  "dependencies": {
+    "@plone/components": "workspace:*",
+    "@plone/registry": "workspace:*",
+    "@eeacms/volto-matomo": "*",
+    "@plone-collective/volto-techevent": "1.0.0-alpha.3",
+    "@plone-collective/volto-authomatic": "3.0.0-alpha.1",
+    "@kitconcept/volto-social-blocks": "1.0.0-alpha.8",
+    "@plone-collective/volto-eventbrite-block": "^1.0.0-alpha.2",
+    "@mbarde/volto-image-crop-widget": "0.5.1",
+    "@kitconcept/volto-light-theme": "6.2.0",
+    "volto-form-block": "*"
+  },
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@plone/scripts": "workspace:*",
+    "release-it": "^17.1.1"
+  }
+}

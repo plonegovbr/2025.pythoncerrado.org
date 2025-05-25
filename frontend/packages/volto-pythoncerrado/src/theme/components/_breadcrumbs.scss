@@ -1,0 +1,6 @@
+.breadcrumbs {
+  --link-foreground-color: var(--breadcrumbs-foreground);
+  .breadcrumb a.section {
+    text-decoration: none;
+  }
+}

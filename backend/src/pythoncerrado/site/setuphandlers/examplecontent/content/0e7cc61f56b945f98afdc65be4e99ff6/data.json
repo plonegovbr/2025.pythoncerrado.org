@@ -1,0 +1,329 @@
+{
+  "@id": "/patrocine",
+  "@type": "SponsorsDB",
+  "UID": "0e7cc61f56b945f98afdc65be4e99ff6",
+  "allow_discussion": null,
+  "benefits": [],
+  "blocks": {
+    "448c4dc0-cf30-40aa-84e8-66c15328e4f1": {
+      "@type": "description"
+    },
+    "5e30f7a9-69e4-4672-ac19-5f01bf80cf83": {
+      "@type": "sponsorsShowcaseBlock",
+      "styles": {
+        "align:noprefix": {
+          "--block-alignment": "var(--align-center)"
+        }
+      },
+      "title": ""
+    },
+    "7c49ad0f-44a8-4aed-81d9-d591648a396e": {
+      "@type": "slate",
+      "plaintext": "Temos cotas de patroc\u00ednio que lhe proporcionam diferentes benef\u00edcios",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Temos cotas de patroc\u00ednio que lhe proporcionam diferentes benef\u00edcios"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "9e88d22f-5b52-4968-86f3-fa7176d4f06e": {
+      "@type": "slate",
+      "plaintext": "N\u00e3o importa se voc\u00ea est\u00e1 envolvido com Python ou Plone como usu\u00e1rio (criador de conte\u00fado, editor, administrador de site), integrador ou desenvolvedor. Com o seu apoio, voc\u00ea nos ajuda a organizar um evento onde podemos:",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "N\u00e3o importa se voc\u00ea est\u00e1 envolvido com Python ou Plone como usu\u00e1rio (criador de conte\u00fado, editor, administrador de site), integrador ou desenvolvedor. Com o seu apoio, voc\u00ea nos ajuda a organizar um evento onde podemos:"
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "a3bd0b95-443b-4c7e-9b4f-b1f39d7f50fd": {
+      "@type": "gridBlock",
+      "blocks": {
+        "69cd73f5-d9bc-4ca0-b15c-218f1e44dc47": {
+          "@type": "teaser",
+          "description": "Cota de patroc\u00ednio Ouro",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/d68fbd92e3874e4f966b656816857cef",
+              "@type": "SponsorLevel",
+              "Description": "Cota de patroc\u00ednio Ouro",
+              "Subject": [],
+              "Title": "Ouro",
+              "description": "Cota de patroc\u00ednio Ouro",
+              "effective": "1969-12-31T03:00:00+00:00",
+              "end": null,
+              "getObjSize": "0 KB",
+              "getRemoteUrl": null,
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "preview_image_link",
+              "mime_type": "text/plain",
+              "nav_title": null,
+              "review_state": "published",
+              "start": null,
+              "title": "Ouro",
+              "type_title": "Sponsorship Level"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "theme": "default",
+          "title": "Ouro"
+        },
+        "aef3dc87-8828-4d09-8ab0-eb165d254aad": {
+          "@type": "teaser",
+          "description": "Cota de patroc\u00ednio Prata",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/572ffe5089564842bbd7282bd72f2150",
+              "@type": "SponsorLevel",
+              "Description": "Cota de patroc\u00ednio Prata",
+              "Subject": [],
+              "Title": "Prata",
+              "description": "Cota de patroc\u00ednio Prata",
+              "effective": "1969-12-31T03:00:00+00:00",
+              "end": null,
+              "getObjSize": "0 KB",
+              "getRemoteUrl": null,
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "preview_image_link",
+              "mime_type": "text/plain",
+              "nav_title": null,
+              "review_state": "published",
+              "start": null,
+              "title": "Prata",
+              "type_title": "Sponsorship Level"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "theme": "default",
+          "title": "Prata"
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "69cd73f5-d9bc-4ca0-b15c-218f1e44dc47",
+          "aef3dc87-8828-4d09-8ab0-eb165d254aad"
+        ]
+      },
+      "headline": "Cotas de Patroc\u00ednio",
+      "styles": {},
+      "theme": "roxo"
+    },
+    "aa8061bc-cfb0-4de2-aed9-df78876af1fb": {
+      "@type": "gridBlock",
+      "blocks": {
+        "a3167023-fcb6-4240-b131-68b5c70082ec": {
+          "@type": "teaser",
+          "description": "Esse evento n\u00e3o seria poss\u00edvel sem o suporte de nossos apoiadores institucionais",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/ca7027f5212a47e086cead82e7c968a8",
+              "@type": "SponsorLevel",
+              "Description": "Apoiadores da Python Cerrado 2025",
+              "Subject": [],
+              "Title": "Apoio",
+              "description": "Esse evento n\u00e3o seria poss\u00edvel sem o suporte de nossos apoiadores institucionais",
+              "effective": "1969-12-31T03:00:00+00:00",
+              "end": null,
+              "getObjSize": "0 KB",
+              "getRemoteUrl": null,
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "preview_image_link",
+              "mime_type": "text/plain",
+              "nav_title": null,
+              "review_state": "published",
+              "start": null,
+              "title": "Apoio",
+              "type_title": "Sponsorship Level"
+            }
+          ],
+          "overwrite": false,
+          "styles": {
+            "align": "left"
+          },
+          "theme": "default",
+          "title": "Apoio"
+        },
+        "f3fdc396-9914-4fa7-9f81-5fe6aa2f0b4c": {
+          "@type": "teaser",
+          "description": "Cota de patroc\u00ednio Bronze",
+          "head_title": null,
+          "href": [
+            {
+              "@id": "../resolveuid/16c3df0d7548469ab74c49ee0838cb66",
+              "@type": "SponsorLevel",
+              "Description": "Cota de patroc\u00ednio Bronze",
+              "Subject": [],
+              "Title": "Bronze",
+              "description": "Cota de patroc\u00ednio Bronze",
+              "effective": "1969-12-31T03:00:00+00:00",
+              "end": null,
+              "getObjSize": "0 KB",
+              "getRemoteUrl": null,
+              "hasPreviewImage": null,
+              "head_title": null,
+              "image_field": "preview_image_link",
+              "mime_type": "text/plain",
+              "nav_title": null,
+              "review_state": "published",
+              "start": null,
+              "title": "Bronze",
+              "type_title": "Sponsorship Level"
+            }
+          ],
+          "overwrite": true,
+          "styles": {
+            "align": "left"
+          },
+          "title": "Bronze"
+        }
+      },
+      "blocks_layout": {
+        "items": [
+          "f3fdc396-9914-4fa7-9f81-5fe6aa2f0b4c",
+          "a3167023-fcb6-4240-b131-68b5c70082ec"
+        ]
+      },
+      "styles": {},
+      "theme": "roxo"
+    },
+    "adbf7add-bb4a-4217-ae00-d94f75c7f63b": {
+      "@type": "title"
+    },
+    "c8b315e2-6e99-4808-9cc8-38b998eb5cb6": {
+      "@type": "slate",
+      "plaintext": "Treinar novos profissionais para usar e desenvolver em Python e Plone Apresentar projetos e solu\u00e7\u00f5es desenvolvidos com essas tecnologias Aprimorar e desenvolver novos produtos Conviver com uma comunidade incr\u00edvel de pessoas de todo o mundo",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Treinar novos profissionais para usar e desenvolver em Python e Plone"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Apresentar projetos e solu\u00e7\u00f5es desenvolvidos com essas tecnologias"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Aprimorar e desenvolver novos produtos"
+                }
+              ],
+              "type": "li"
+            },
+            {
+              "children": [
+                {
+                  "text": "Conviver com uma comunidade incr\u00edvel de pessoas de todo o mundo"
+                }
+              ],
+              "type": "li"
+            }
+          ],
+          "type": "ul"
+        }
+      ]
+    },
+    "e369bdc1-0edd-4677-98b1-74fde3039120": {
+      "@type": "slate",
+      "plaintext": "Patrocinar o evento significa associar sua marca a iniciativas abertas e colaborativas de software livre. \u00c9 tamb\u00e9m uma oportunidade \u00edmpar de estabelecer parcerias estrat\u00e9gicas, realizar recrutamentos e fazer conex\u00f5es.",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": "Patrocinar o evento significa associar sua marca a iniciativas abertas e colaborativas de software livre. \u00c9 tamb\u00e9m uma oportunidade \u00edmpar de estabelecer parcerias estrat\u00e9gicas, realizar recrutamentos e fazer conex\u00f5es."
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "adbf7add-bb4a-4217-ae00-d94f75c7f63b",
+      "448c4dc0-cf30-40aa-84e8-66c15328e4f1",
+      "9e88d22f-5b52-4968-86f3-fa7176d4f06e",
+      "c8b315e2-6e99-4808-9cc8-38b998eb5cb6",
+      "e369bdc1-0edd-4677-98b1-74fde3039120",
+      "7c49ad0f-44a8-4aed-81d9-d591648a396e",
+      "a3bd0b95-443b-4c7e-9b4f-b1f39d7f50fd",
+      "aa8061bc-cfb0-4de2-aed9-df78876af1fb",
+      "5e30f7a9-69e4-4672-ac19-5f01bf80cf83"
+    ]
+  },
+  "created": "2025-05-23T20:29:54+00:00",
+  "description": "A Python Cerrado, o encontro da comunidade Python do Centro-Oeste do Brasil, chega a sua quarta edi\u00e7\u00e3o sempre atraindo um p\u00fablico diverso.",
+  "exclude_from_nav": false,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "patrocine",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "view",
+  "lock": {},
+  "modified": "2025-05-24T22:21:58+00:00",
+  "nav_title": null,
+  "preview_caption_link": null,
+  "review_state": "published",
+  "title": "Patrocine",
+  "type_title": "Sponsors Database",
+  "version": "current",
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-05-23T20:29:54+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-05-24T19:03:45+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}

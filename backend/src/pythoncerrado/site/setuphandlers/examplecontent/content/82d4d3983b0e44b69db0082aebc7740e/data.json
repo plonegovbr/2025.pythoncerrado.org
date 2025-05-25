@@ -1,0 +1,88 @@
+{
+  "@id": "/grade/chamada-de-trabalhos",
+  "@type": "Document",
+  "UID": "82d4d3983b0e44b69db0082aebc7740e",
+  "allow_discussion": null,
+  "blocks": {
+    "2c11fe91-0759-4686-bccd-368b9bfb2bc9": {
+      "@type": "title"
+    },
+    "4dc35ee1-f1e5-4222-b3d9-3aa20ee480c6": {
+      "@type": "slate",
+      "plaintext": "",
+      "styles": {},
+      "theme": "default",
+      "value": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "p"
+        }
+      ]
+    },
+    "9c3571f2-3fe8-4ef9-96d9-ebcd7012d941": {
+      "@type": "description"
+    }
+  },
+  "blocks_layout": {
+    "items": [
+      "2c11fe91-0759-4686-bccd-368b9bfb2bc9",
+      "9c3571f2-3fe8-4ef9-96d9-ebcd7012d941",
+      "4dc35ee1-f1e5-4222-b3d9-3aa20ee480c6"
+    ]
+  },
+  "changeNote": "",
+  "contributors": [],
+  "created": "2025-05-24T19:21:17+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "A chamada de trabalhos para a Python Cerrado 2025 est\u00e1 aberta!",
+  "effective": "2025-05-24T19:22:00+00:00",
+  "exclude_from_nav": false,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "chamada-de-trabalhos",
+  "is_folderish": true,
+  "language": "##DEFAULT##",
+  "layout": "document_view",
+  "lock": {
+    "locked": false,
+    "stealable": true
+  },
+  "modified": "2025-05-24T22:24:16+00:00",
+  "nav_title": null,
+  "preview_caption": null,
+  "preview_image": null,
+  "review_state": "published",
+  "rights": "",
+  "subjects": [],
+  "title": "Chamada de trabalhos",
+  "type_title": "Page",
+  "version": "current",
+  "versioning_enabled": true,
+  "workflow_history": {
+    "simple_publication_workflow": [
+      {
+        "action": null,
+        "actor": "admin",
+        "comments": "",
+        "review_state": "private",
+        "time": "2025-05-24T19:21:17+00:00"
+      },
+      {
+        "action": "publish",
+        "actor": "admin",
+        "comments": "",
+        "review_state": "published",
+        "time": "2025-05-24T19:22:09+00:00"
+      }
+    ]
+  },
+  "working_copy": null,
+  "working_copy_of": null
+}
