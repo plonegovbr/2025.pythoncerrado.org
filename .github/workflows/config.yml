@@ -7,6 +7,14 @@ on:
         required: false
         type: string
         default: "2025.pythoncerrado.org"
+      hostname:
+        required: false
+        type: string
+        default: "2025.pythoncerrado.org"
+      certesolver:
+        required: false
+        type: string
+        default: "le-tls"
       stack-prefix:
         required: false
         type: string
@@ -66,6 +74,12 @@ on:
       stack-prefix:
         description: "Stack prefix"
         value: ${{ jobs.config.outputs.stack-prefix }}
+      certesolver:
+        description: "Certificarte resolver"
+        value: ${{ inputs.certesolver }}
+      hostname:
+        description: "Hostname"
+        value: ${{ inputs.hostname }}
 
 
 jobs:

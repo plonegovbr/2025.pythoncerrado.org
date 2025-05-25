@@ -12,14 +12,10 @@ COPY . src
 # Install local requirements and pre-compile mo files
 RUN <<EOT
     set -e
-    bin/pip install mxdev uv
-    sed -i 's/-e .\[test\]/./g' src/mx.ini
-    cd /app/src
-    # remove potentially existing virtualenv from local build
-    rm -rf .venv
-    ../bin/mxdev -c mx.ini
-    ../bin/uv pip install -r requirements-mxdev.txt
-    ../bin/python /compile_mo.py
+    bin/pip install uv hatch hatchling wheel
+    VIRTUAL_ENV=/app bin/uv --directory src sync --frozen --active --no-editable
+    bin/python /compile_mo.py
+    rm -Rf src
 EOT
 
 FROM plone/server-prod-config:${PLONE_VERSION}
