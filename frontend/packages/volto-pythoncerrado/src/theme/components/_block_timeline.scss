@@ -1,0 +1,4 @@
+.eea.timeline {
+  @include narrow-container-width;
+  max-width: var(--narrow-container-width) !important;
+}

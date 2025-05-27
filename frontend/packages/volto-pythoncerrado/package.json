@@ -30,6 +30,7 @@
     "@eeacms/volto-accordion-block",
     "@kitconcept/volto-slider-block",
     "@kitconcept/volto-social-blocks",
+    "@kitconcept/volto-separator-block",
     "@mbarde/volto-image-crop-widget",
     "volto-form-block",
     "@plonegovbr/volto-social-media",
@@ -37,6 +38,7 @@
     "@plone-collective/volto-authomatic",
     "@plone-collective/volto-eventbrite-block",
     "@plone-collective/volto-techevent",
+    "@eeacms/volto-timeline-block",
     "@eeacms/volto-matomo",
     "@kitconcept/volto-light-theme"
   ],
@@ -50,6 +52,7 @@
     "@plone-collective/volto-eventbrite-block": "^1.0.0-alpha.2",
     "@mbarde/volto-image-crop-widget": "0.5.1",
     "@kitconcept/volto-light-theme": "6.2.0",
+    "@eeacms/volto-timeline-block": "*",
     "volto-form-block": "*"
   },
   "peerDependencies": {

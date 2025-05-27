@@ -1553,6 +1553,9 @@ importers:
       '@eeacms/volto-matomo':
         specifier: '*'
         version: 5.0.0(react@18.2.0)
+      '@eeacms/volto-timeline-block':
+        specifier: '*'
+        version: 2.0.1
       '@kitconcept/volto-light-theme':
         specifier: 6.2.0
         version: 6.2.0(@eeacms/volto-accordion-block@10.4.6)(@kitconcept/volto-banner-block@1.0.1(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(@kitconcept/volto-button-block@3.0.3(classnames@2.5.1)(react-dom@18.2.0(react@18.2.0))(react-intl@3.12.1(react@18.2.0))(react@18.2.0))(@kitconcept/volto-dsgvo-banner@2.3.2)(@kitconcept/volto-heading-block@2.4.1(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(@kitconcept/volto-highlight-block@4.2.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(@kitconcept/volto-introduction-block@1.0.0)(@kitconcept/volto-separator-block@4.1.2(react-dom@18.2.0(react@18.2.0))(react-intl@3.12.1(react@18.2.0))(react@18.2.0)(storybook@8.6.14(prettier@3.2.5)))(@kitconcept/volto-slider-block@6.3.1(@plone/volto@18.22.0(@babel/runtime@7.27.1)(@popperjs/core@2.11.8)(@types/react-dom@18.3.7(@types/react@18.3.22))(@types/react@18.3.22)(react-with-direction@1.4.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(seamless-immutable@7.1.4))(embla-carousel@8.6.0)(react@18.2.0))(@plonegovbr/volto-social-media@2.0.0-alpha.5(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(storybook@8.6.14(prettier@3.2.5)))(classnames@2.5.1)(lodash@4.17.21)(react-dom@18.2.0(react@18.2.0))(react-intl@3.12.1(react@18.2.0))(react-redux@8.1.2(@types/react-dom@18.3.7(@types/react@18.3.22))(@types/react@18.3.22)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)(redux@4.2.1))(react-router-dom@5.2.0(react@18.2.0))(react@18.2.0)(storybook@8.6.14(prettier@3.2.5))
@@ -2479,6 +2482,9 @@ packages:
 
   '@eeacms/volto-matomo@5.0.0':
     resolution: {integrity: sha512-B1coWOaYd2D/9abFaN3x4vi6CgEhHlKJpSTLF+nXvGkRIxe8ThVxXH/bh1OoD/SxplvrvfhhRN/1JwwcGEn5hA==}
+
+  '@eeacms/volto-timeline-block@2.0.1':
+    resolution: {integrity: sha512-DnpXj+KSK/AiLfKLyafeLQvfp6aFuDSfe/49wNt1WTUllHSYW7ftiPD3nmHIUaOKOqCB2x+FmdGbS6abKsrT1w==}
 
   '@eeacms/volto-widget-theme-picker@2.0.0':
     resolution: {integrity: sha512-f3+B7ATw0EoehO2rqU9NZoJABBtFUGy+zDGynm7MCSsfWcy6yafmCsOw2MKssBFXkgBicfpLLdE8ESEEITy6aA==}
@@ -15902,6 +15908,8 @@ snapshots:
       '@datapunt/matomo-tracker-react': 0.3.1(react@18.2.0)
     transitivePeerDependencies:
       - react
+
+  '@eeacms/volto-timeline-block@2.0.1': {}
 
   '@eeacms/volto-widget-theme-picker@2.0.0': {}
 
