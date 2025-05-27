@@ -33,7 +33,7 @@ dependencies = [
     "kitconcept.voltolighttheme==6.2.0",
     "collective.honeypot",
     "plone.app.upgrade",
-    "collective.techevent==1.0.0a3",
+    "collective.techevent==1.0.0a5",
 ]
 
 [dependency-groups]
@@ -103,7 +103,7 @@ constraint-dependencies = [
     "collective.recipe.omelette==2.0.0",
     "collective.recipe.template==2.2",
     "collective.recipe.vscode==0.1.9",
-    "collective.techevent==1.0.0a3",
+    "collective.techevent==1.0.0a5",
     "collective.xmltestreport==2.0.2",
     "collective.z3cform.datagridfield==3.0.3",
     "colorama==0.4.6",
