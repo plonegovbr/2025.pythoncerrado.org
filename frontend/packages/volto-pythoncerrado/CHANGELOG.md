@@ -8,6 +8,21 @@
 
 <!-- towncrier release notes start -->
 
+## 20250527.1.0 (2025-05-27)
+
+### Feature
+
+- Adds @eeacms/volto-timeline-block package. @ericof 
+
+### Bugfix
+
+- Do not publish the package to npm. @ericof 
+
+### Internal
+
+- Upgrade @plone-collective/volto-authomatic to version 3.0.0-alpha.2 @ericof 
+- Upgrade @plone-collective/volto-techevent to version 1.0.0-alpha.5 @ericof 
+
 ## 20250525.1.0 (2025-05-25)
 
 ### Feature
