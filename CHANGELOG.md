@@ -7,6 +7,32 @@
 -->
 
 <!-- towncrier release notes start -->
+## 20250627.1 (2025-06-27)
+
+### Backend
+
+
+#### New features:
+
+- Atualiza collective.techevent para 1.0.0a6. @ericof 
+
+
+
+### Frontend
+
+#### Feature
+
+- Atualiza @plone-collective/volto-techevent para 1.0.0-alpha.6. @ericof 
+
+
+
+### Project
+
+No significant changes.
+
+
+
+
 ## 20250527.1 (2025-05-27)
 
 ### Backend
