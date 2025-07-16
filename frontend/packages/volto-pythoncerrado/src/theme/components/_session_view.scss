@@ -1,0 +1,10 @@
+.container.session-view {
+  .presenterTile {
+    --block-alignment: center;
+    .presenterTitle {
+      .title {
+        color: var(--secondary-color);
+      }
+    }
+  }
+}
