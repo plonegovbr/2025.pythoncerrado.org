@@ -9,6 +9,14 @@
 
 <!-- towncrier release notes start -->
 
+## 20250716.1 (2025-07-16)
+
+
+### Internal:
+
+- Upgrade Products.CMFPlone to 6.1.2. @ericof 
+- Upgrade collective.techevent to 1.0.0a8. @ericof 
+
 ## 20250627.1 (2025-06-27)
 
 

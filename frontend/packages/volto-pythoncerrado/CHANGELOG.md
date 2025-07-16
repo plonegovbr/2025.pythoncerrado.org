@@ -8,6 +8,13 @@
 
 <!-- towncrier release notes start -->
 
+## 20250716.1.0 (2025-07-16)
+
+### Internal
+
+- Upgrade @plone-collective/volto-authomatic to 3.0.0-alpha.3. @ericof 
+- Upgrade @plone-collective/volto-techevent to 1.0.0-alpha.8. @ericof 
+
 ## 20250627.1.0 (2025-06-27)
 
 ### Feature

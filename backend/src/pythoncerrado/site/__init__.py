@@ -5,7 +5,7 @@ from zope.i18nmessageid import MessageFactory
 import logging
 
 
-__version__ = "20250627.1"
+__version__ = "20250716.1"
 
 PACKAGE_NAME = "pythoncerrado.site"
 

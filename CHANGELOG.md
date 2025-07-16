@@ -7,6 +7,34 @@
 -->
 
 <!-- towncrier release notes start -->
+## 20250716.1 (2025-07-16)
+
+### Backend
+
+
+#### Internal:
+
+- Upgrade Products.CMFPlone to 6.1.2. @ericof 
+- Upgrade collective.techevent to 1.0.0a8. @ericof 
+
+
+
+### Frontend
+
+#### Internal
+
+- Upgrade @plone-collective/volto-authomatic to 3.0.0-alpha.3. @ericof 
+- Upgrade @plone-collective/volto-techevent to 1.0.0-alpha.8. @ericof 
+
+
+
+### Project
+
+No significant changes.
+
+
+
+
 ## 20250627.1 (2025-06-27)
 
 ### Backend
