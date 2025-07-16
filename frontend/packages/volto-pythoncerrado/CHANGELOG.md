@@ -8,6 +8,8 @@
 
 <!-- towncrier release notes start -->
 
+## 20250716.2.0 (2025-07-16)
+
 ## 20250716.1.0 (2025-07-16)
 
 ### Internal

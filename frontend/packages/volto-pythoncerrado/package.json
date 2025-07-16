@@ -1,6 +1,6 @@
 {
   "name": "@plonegovbr/volto-pythoncerrado",
-  "version": "20250716.1.0",
+  "version": "20250716.2.0",
   "description": "Site da Python Cerrado 2025",
   "main": "src/index.ts",
   "license": "MIT",
