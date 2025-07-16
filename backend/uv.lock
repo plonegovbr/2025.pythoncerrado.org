@@ -36,7 +36,7 @@ constraints = [
     { name = "collective-recipe-omelette", specifier = "==2.0.0" },
     { name = "collective-recipe-template", specifier = "==2.2" },
     { name = "collective-recipe-vscode", specifier = "==0.1.9" },
-    { name = "collective-techevent", specifier = "==1.0.0a8" },
+    { name = "collective-techevent", specifier = "==1.0.0a9" },
     { name = "collective-xmltestreport", specifier = "==2.0.2" },
     { name = "collective-z3cform-datagridfield", specifier = "==3.0.4" },
     { name = "colorama", specifier = "==0.4.6" },
@@ -709,7 +709,7 @@ wheels = [
 
 [[package]]
 name = "collective-techevent"
-version = "1.0.0a8"
+version = "1.0.0a9"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "collective-z3cform-datagridfield" },
@@ -719,9 +719,9 @@ dependencies = [
     { name = "plonegovbr-socialmedia" },
     { name = "products-cmfplone" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/bc/4c/7f18689a66b9c319cb98540208bb7f11c62676716b4fdd9ca0746cf8c960/collective_techevent-1.0.0a8.tar.gz", hash = "sha256:188da4bde34c7517713cb1e02909b4157481fcdb97d503f35ab3ecb41809fdde", size = 3544599 }
+sdist = { url = "https://files.pythonhosted.org/packages/33/31/82e98ab37f2ad4a3fe3ea6768162a615a5e09c4a79aaaba76af9c5e80318/collective_techevent-1.0.0a9.tar.gz", hash = "sha256:b45c4f8ff05b370836b0569d0169f9cce0abd483512f2e10cb799ba2290fb36f", size = 3544618 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/85/a0/4ecb63965627dd64792b0771e6bef6381c7a636814bb113ed57aa9dccd31/collective_techevent-1.0.0a8-py3-none-any.whl", hash = "sha256:cb50df2b97352a93795eda3f3d974dcf732eb04be9808ec0f5c586a70727ff90", size = 3598955 },
+    { url = "https://files.pythonhosted.org/packages/69/be/eb9496d65c7ae1de20dd352c6383952712cb129ad618aa6dadc8528924bb/collective_techevent-1.0.0a9-py3-none-any.whl", hash = "sha256:789b0f25d02d5502cd56c2429d25f834a98bfb9595f093cec4022b192830274e", size = 3598960 },
 ]
 
 [[package]]
@@ -4317,7 +4317,7 @@ test = [
 [package.metadata]
 requires-dist = [
     { name = "collective-honeypot" },
-    { name = "collective-techevent", specifier = "==1.0.0a8" },
+    { name = "collective-techevent", specifier = "==1.0.0a9" },
     { name = "collective-volto-formsupport" },
     { name = "kitconcept-voltolighttheme", specifier = "==6.2.0" },
     { name = "pas-plugins-authomatic", specifier = "==2.0.0" },
