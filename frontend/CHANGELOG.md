@@ -8,6 +8,12 @@
 
 <!-- towncrier release notes start -->
 
+## 20250725.1.0 (2025-07-25)
+
+### Feature
+
+- Melhorias de CSS na grade de programação. @ericof 
+
 ## 20250716.2.0 (2025-07-16)
 
 ## 20250716.1.0 (2025-07-16)
