@@ -1,3 +1,8 @@
 #main .schedule .timeslot .rooms .room {
   width: 100%;
 }
+.block.schedule {
+  .title {
+    margin-bottom: $spacing-medium;
+  }
+}
