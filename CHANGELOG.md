@@ -7,6 +7,30 @@
 -->
 
 <!-- towncrier release notes start -->
+## 20250725.2 (2025-07-25)
+
+### Backend
+
+No significant changes.
+
+
+
+
+### Frontend
+
+#### Feature
+
+- Correções de css do bloco de grade. @ericof 
+
+
+
+### Project
+
+No significant changes.
+
+
+
+
 ## 20250725.1 (2025-07-25)
 
 ### Backend

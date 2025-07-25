@@ -8,6 +8,12 @@
 
 <!-- towncrier release notes start -->
 
+## 20250725.2.0 (2025-07-25)
+
+### Feature
+
+- Correções de css do bloco de grade. @ericof 
+
 ## 20250725.1.0 (2025-07-25)
 
 ### Feature
