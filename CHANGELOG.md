@@ -7,6 +7,30 @@
 -->
 
 <!-- towncrier release notes start -->
+## 20250731.1 (2025-07-31)
+
+### Backend
+
+No significant changes.
+
+
+
+
+### Frontend
+
+#### Bugfix
+
+- Fix link in schedule block. Update @plone-collective/volto-techevent to version 1.0.0-alpha.10. @ericof 
+
+
+
+### Project
+
+No significant changes.
+
+
+
+
 ## 20250725.2 (2025-07-25)
 
 ### Backend
