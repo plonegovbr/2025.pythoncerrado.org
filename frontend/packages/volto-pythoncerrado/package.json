@@ -46,7 +46,7 @@
     "@plone/components": "workspace:*",
     "@plone/registry": "workspace:*",
     "@eeacms/volto-matomo": "*",
-    "@plone-collective/volto-techevent": "1.0.0-alpha.10",
+    "@plone-collective/volto-techevent": "1.0.0-alpha.11",
     "@plone-collective/volto-authomatic": "3.0.0-alpha.3",
     "@kitconcept/volto-social-blocks": "1.0.0-alpha.8",
     "@plone-collective/volto-eventbrite-block": "^1.0.0-alpha.2",
