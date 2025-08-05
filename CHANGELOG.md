@@ -7,6 +7,32 @@
 -->
 
 <!-- towncrier release notes start -->
+## 20250805.1 (2025-08-05)
+
+### Backend
+
+
+#### Bug fixes:
+
+- Atualiza @collective/techevent para versão 1.0.0a12. @ericof 
+
+
+
+### Frontend
+
+#### Bugfix
+
+- Atualiza @plone-collective/volto-techevent para versão 1.0.0-alpha.12. @ericof 
+
+
+
+### Project
+
+No significant changes.
+
+
+
+
 ## 20250801.1 (2025-08-01)
 
 ### Backend
